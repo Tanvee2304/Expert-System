@@ -1,0 +1,750 @@
+Category,Question,Answer,Difficulty
+Cybersecurity,What is Cybersecurity?,"Cybersecurity is the practice of protecting computers, networks, programs, and data from unauthorized access, damage, or theft.",Beginner
+Cybersecurity,What are the main goals of Cybersecurity?,"The main goals are confidentiality, integrity, and availability of information.",Beginner
+Cybersecurity,What is a Firewall?,A firewall is a network security device that monitors and controls incoming and outgoing network traffic based on predetermined security rules.,Beginner
+Cybersecurity,What is Malware?,"Malware is malicious software designed to harm, exploit, or otherwise compromise a computer system, including viruses, worms, and ransomware.",Beginner
+Cybersecurity,What is Phishing?,"Phishing is a type of cyber attack where attackers impersonate legitimate organizations to trick individuals into providing sensitive information, such as passwords.",Beginner
+Cybersecurity,"Explain the term ""Encryption""",Encryption is the process of converting data into a coded format to prevent unauthorized access.,Beginner
+Cybersecurity,What is the difference between HTTP and HTTPS?,"HTTPS (HyperText Transfer Protocol Secure) is the secure version of HTTP, using encryption to protect data exchanged between the browser and the server.",Beginner
+Cybersecurity,What is a VPN?,A VPN (Virtual Private Network) creates a secure connection over the internet by encrypting data and masking the user's IP address.,Beginner
+Cybersecurity,What are the key components of a Cybersecurity policy?,"Key components include risk assessment, user access control, incident response, and data protection measures.",Intermediate
+Cybersecurity,What is a DDoS attack?,"A DDoS (Distributed Denial of Service) attack aims to overwhelm a system, making it unavailable to users by flooding it with traffic from multiple sources.",Intermediate
+Cybersecurity,What is a security vulnerability?,A security vulnerability is a weakness in a system that can be exploited by threats to gain unauthorized access or cause damage.,Intermediate
+Cybersecurity,Explain the concept of social engineering.,Social engineering is the manipulation of individuals into revealing confidential information by exploiting psychological tricks rather than technical hacking.,Intermediate
+Cybersecurity,What are the types of authentication methods?,"Types include single-factor authentication (username and password), two-factor authentication (2FA), and multi-factor authentication (MFA).",Intermediate
+Cybersecurity,What is Ransomware?,"Ransomware is a type of malware that encrypts files on a victim's device, demanding payment for decryption.",Intermediate
+Cybersecurity,Describe the principle of least privilege.,"The principle of least privilege dictates that users should have only the minimum access necessary to perform their job functions, reducing the risk of data breaches.",Intermediate
+Cybersecurity,How does SSL work?,"SSL (Secure Sockets Layer) secures communication over the internet by encrypting data between a web server and a browser, ensuring data confidentiality and integrity.",Intermediate
+Cybersecurity,Explain the difference between vulnerability assessment and penetration testing.,"Vulnerability assessment identifies weaknesses, while penetration testing simulates attacks to exploit vulnerabilities.",Intermediate
+Cybersecurity,What is GDPR and its importance?,"The General Data Protection Regulation (GDPR) is EU legislation protecting personal data, ensuring privacy rights and requiring consent for data processing.",Intermediate
+Cybersecurity,How does multi-factor authentication enhance security?,"Multi-factor authentication requires multiple verification methods (e.g., passwords and biometric data), adding an extra layer of security against unauthorized access.",Intermediate
+Cybersecurity,Explain the concept of threat hunting.,"Threat hunting is proactively searching for hidden threats in networks before they can cause damage, using threat intelligence and behavioral analysis.",Intermediate
+Cybersecurity,How do you protect against insider threats?,"Protection strategies include monitoring user activity, implementing strict access controls, and fostering a security-aware culture.",Intermediate
+Cybersecurity,What is a Botnet and how does it work?,"A botnet is a network of compromised computers controlled by an attacker, used to launch coordinated attacks, such as DDoS or sending spam.",Advanced
+Cybersecurity,Describe the impact of cyber attacks on businesses.,"Cyber attacks can lead to financial loss, reputational damage, operational disruption, and legal consequences due to data breaches and regulatory violations.",Advanced
+Cybersecurity,Explain the role of threat intelligence in Cybersecurity.,"Threat intelligence provides data about potential threats, helping organizations to proactively defend against and respond to attacks.",Advanced
+Cybersecurity,What is a cybersecurity breach?,"A cybersecurity breach occurs when unauthorized access is gained to confidential data or systems, leading to data theft or compromise.",Advanced
+Cybersecurity,Explain the importance of compliance in cybersecurity.,"Compliance ensures that organizations adhere to legal and regulatory requirements, reducing the risk of penalties and enhancing security measures.",Advanced
+Cybersecurity,What is the purpose of a cybersecurity incident response plan?,"An incident response plan outlines procedures for identifying, responding to, and recovering from cybersecurity incidents, minimizing impact and damage.",Advanced
+Cybersecurity,What is multi-layered security?,"Multi-layered security employs various security measures (firewalls, antivirus, encryption) to create multiple layers of protection against threats.",Advanced
+Cybersecurity,Explain the concept of Red Teaming and Blue Teaming.,"Red Teaming: Simulates real-world attacks to test defenses. Blue Teaming: Defends against attacks, monitoring and responding to incidents.",Advanced
+Cybersecurity,What is the importance of regular security assessments?,"Regular security assessments identify vulnerabilities, assess the effectiveness of controls, and ensure compliance with security policies, reducing risks.",Advanced
+Cybersecurity,What is a honeypot?,"A honeypot is a decoy system designed to attract attackers, allowing organizations to study attack methods and improve security measures.",Advanced
+Cybersecurity,Describe a zero-day vulnerability.,"A zero-day vulnerability is a flaw in software that is unknown to the vendor, leaving systems vulnerable until a patch is released.",Advanced
+Cybersecurity,How can you mitigate the risk of a SQL injection attack?,"Mitigation strategies include using prepared statements, validating user inputs, and employing web application firewalls.",Advanced
+Cybersecurity,What is the difference between symmetric and asymmetric encryption?,"Symmetric encryption uses the same key for encryption and decryption, while asymmetric encryption uses a pair of keys (public and private).",Intermediate
+Cybersecurity,What are common types of Cybersecurity threats?,"Common threats include malware, phishing, ransomware, DDoS attacks, and insider threats.",Beginner
+Cybersecurity,What is the CIA triad?,"The CIA triad refers to confidentiality, integrity, and availability, which are core principles of information security.",Beginner
+Cybersecurity,How do firewalls work?,"Firewalls filter network traffic based on security rules, allowing or blocking data packets to protect networks from unauthorized access.",Beginner
+Cybersecurity,What is social engineering?,"Social engineering involves manipulating people into divulging confidential information, often through deception or trickery.",Intermediate
+Cybersecurity,What is the principle of defense in depth?,Defense in depth is a security strategy that employs multiple layers of security controls to protect data and resources.,Advanced
+Cybersecurity,"What is the difference between a threat, vulnerability, and risk?",A threat is a potential event that may exploit a vulnerability; a vulnerability is a weakness in a system; and risk is the potential for loss or damage from a threat.,Intermediate
+Cybersecurity,How can organizations protect against phishing attacks?,"Protection strategies include user training, email filtering, and implementing security protocols for sensitive transactions.",Intermediate
+Cybersecurity,What is an SSL certificate?,An SSL certificate is a digital certificate that authenticates the identity of a website and encrypts information sent between the server and browser.,Intermediate
+Cybersecurity,What is network segmentation?,Network segmentation involves dividing a computer network into smaller parts to improve performance and enhance security.,Advanced
+Cybersecurity,What are the signs of a potential cybersecurity breach?,"Signs include unusual account activity, slow system performance, unexpected changes in file sizes, and alert notifications from security software.",Advanced
+Cybersecurity,How do you conduct a risk assessment?,"Conducting a risk assessment involves identifying assets, determining potential threats and vulnerabilities, assessing risks, and implementing mitigation strategies.",Advanced
+Cybersecurity,"Explain the term ""malware as a service.""","Malware as a service refers to the availability of malware tools and services provided by attackers for hire, allowing even non-technical users to launch attacks.",Advanced
+Cybersecurity,How does encryption enhance data security?,"Encryption protects data by converting it into an unreadable format, ensuring that only authorized users with the correct key can access the information.",Intermediate
+Cybersecurity,What is an IDS/IPS?,"An IDS (Intrusion Detection System) monitors network traffic for suspicious activity, while an IPS (Intrusion Prevention System) takes action to block or prevent attacks.",Advanced
+Cybersecurity,What is a phishing attack and how can you identify one?,"A phishing attack is an attempt to trick individuals into revealing sensitive information. Signs include suspicious emails, urgent requests, and poor grammar.",Intermediate
+Cybersecurity,What is a cybersecurity framework?,"A cybersecurity framework is a structured approach to managing cybersecurity risks, including guidelines, best practices, and standards for protecting information.",Advanced
+Cybersecurity,"Explain the concept of ""ransomware as a service.""","Ransomware as a service allows attackers to purchase or rent ransomware tools and services, making it easier for individuals to carry out ransomware attacks.",Advanced
+Cybersecurity,How can you secure a network?,"Network security can be enhanced through firewalls, intrusion detection systems, access controls, encryption, and regular security assessments.",Intermediate
+Cybersecurity,What are the different types of malware?,"Types of malware include viruses, worms, Trojans, ransomware, spyware, and adware.",Beginner
+Cybersecurity,What is the difference between an active and passive attack?,"An active attack involves an attempt to alter system resources or affect their operation, while a passive attack aims to monitor or intercept data without modification.",Advanced
+Cybersecurity,What are common Cybersecurity compliance frameworks?,"Common frameworks include NIST Cybersecurity Framework, ISO 27001, GDPR, HIPAA, and PCI DSS.",Advanced
+Cybersecurity,How can you protect sensitive data?,"Protect sensitive data by implementing encryption, access controls, data masking, and secure data disposal methods.",Intermediate
+Cybersecurity,What is the role of a Security Information and Event Management (SIEM) system?,"A SIEM system aggregates and analyzes security data from across an organization, helping to detect, respond to, and manage security incidents.",Advanced
+Cybersecurity,What is the importance of regular software updates?,"Regular software updates patch vulnerabilities, enhancing security and reducing the risk of exploitation by attackers.",Intermediate
+Cybersecurity,What is two-factor authentication (2FA)?,"2FA is a security process that requires two forms of identification before granting access, such as a password and a verification code sent to a mobile device.",Intermediate
+Cybersecurity,How do you recognize and respond to an insider threat?,"Recognizing insider threats involves monitoring user behavior, identifying unusual access patterns, and implementing protocols for reporting suspicious activities.",Advanced
+Cybersecurity,What is a security breach notification law?,A security breach notification law requires organizations to inform affected individuals when their personal information has been compromised in a data breach.,Intermediate
+Cybersecurity,What are the potential consequences of a data breach?,"Consequences can include financial loss, reputational damage, legal penalties, loss of customer trust, and operational disruption.",Advanced
+Cybersecurity,What is endpoint security?,"Endpoint security protects endpoints (devices) on a network, including laptops, smartphones, and servers, from cyber threats.",Advanced
+Cybersecurity,Explain the role of encryption in data protection.,"Encryption secures data by converting it into a format that unauthorized users cannot read, ensuring confidentiality and integrity.",Intermediate
+Cybersecurity,What is the purpose of an incident response team?,"An incident response team is responsible for managing and responding to cybersecurity incidents, minimizing damage, and restoring normal operations.",Advanced
+Cybersecurity,How can you identify and mitigate risks in a cybersecurity context?,"Identifying and mitigating risks involves conducting risk assessments, implementing security controls, and continuously monitoring for new threats.",Advanced
+Cybersecurity,What is threat modeling?,Threat modeling is the process of identifying potential threats and vulnerabilities in a system to better understand security risks and develop mitigation strategies.,Advanced
+Cybersecurity,"Explain the term ""data exfiltration.""","Data exfiltration is the unauthorized transfer of data from a computer or network, often used in cyber attacks to steal sensitive information.",Advanced
+Cybersecurity,What is the purpose of a penetration test?,A penetration test simulates cyber attacks to evaluate an organization's security posture and identify vulnerabilities before they can be exploited by attackers.,Advanced
+Cybersecurity,How do you secure cloud computing environments?,"Securing cloud environments involves using encryption, access controls, identity management, regular audits, and compliance with industry standards.",Advanced
+Cybersecurity,What are the common security controls used in Cybersecurity?,"Common security controls include firewalls, intrusion detection/prevention systems, access controls, encryption, and security policies.",Intermediate
+Cybersecurity,"Explain the term ""attack surface.""","The attack surface is the total sum of vulnerabilities in a system that an attacker can exploit, including exposed software, services, and user interfaces.",Advanced
+Cybersecurity,What is a digital signature?,A digital signature is an encrypted code attached to an electronic document that verifies the authenticity and integrity of the document.,Intermediate
+Cybersecurity,How can you secure mobile devices in a corporate environment?,"Securing mobile devices involves implementing strong access controls, encryption, mobile device management, and user training on security best practices.",Advanced
+Cybersecurity,What are the benefits of using a cybersecurity framework?,"Benefits include standardized security practices, improved risk management, regulatory compliance, and enhanced overall security posture.",Advanced
+General Programming,What is the difference between compilation and interpretation?,Compilation translates source code into machine code creating an executable file. Interpretation translates and executes code line by line without an executable.,Intermediate
+General Programming,Explain the concept of polymorphism.,"Polymorphism allows objects of different classes to be treated as objects of a common superclass, enabling method overriding.",Intermediate
+General Programming,Define encapsulation and give an example.,"Encapsulation bundles data and methods in a class, restricting direct data access. Example: class with private data and public methods.",Advanced
+General Programming,"What is an abstract class, and how is it different from an interface?",An abstract class can't be instantiated and can have abstract and concrete methods. An interface only has method signatures without implementations.,Intermediate
+General Programming,Describe the principles of Object-Oriented Programming (OOP).,"OOP principles include encapsulation, inheritance, polymorphism, and abstraction, promoting organized and maintainable code.",Intermediate
+General Programming,What is the purpose of a constructor?,"A constructor initializes object properties upon class instantiation, ensuring a well-defined state.",Intermediate
+General Programming,Explain the difference between stack and heap memory.,"Stack memory stores local variables and function calls; heap memory is for dynamic allocation. Stack operates in LIFO, heap managed manually or by garbage collection.",Intermediate
+General Programming,"What is a design pattern, and can you name a few?","Design patterns are solutions to common design problems. Examples: Singleton, Factory, Observer, MVC.",Intermediate
+General Programming,"Define the term ""DRY"" in software development.",DRY (Don't Repeat Yourself) advocates for avoiding code duplication by reusing existing code.,Intermediate
+General Program,What is the SOLID principle?,"SOLID represents five design principles for OOP: Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion.",Advanced
+Data Structures,What is the difference between an array and a linked list?,"An array has fixed size and stores elements in contiguous memory; a linked list consists of nodes with data and references, allowing dynamic size.",Beginner
+Data Structures,Explain the time complexity of an algorithm.,"Time complexity measures the time an algorithm takes relative to its input size, expressed in Big O notation.",Advanced
+Data Structures,Describe the difference between a binary search tree and a hash table.,"A binary search tree is hierarchical, maintaining order; a hash table maps keys to values for fast retrieval, without maintaining order.",Intermediate
+Data Structures,What is a linked list and how does it work?,"A linked list is a series of nodes each containing data and a reference to the next node, allowing dynamic memory allocation and efficient insertions/deletions.",Intermediate
+Data Structures,Explain the concept of recursion.,"Recursion is when a function calls itself to solve subproblems, with a base case to terminate recursion.",Intermediate
+Data Structures,"What is Big O notation, and why is it important?","Big O notation describes the upper bound of algorithm time complexity, important for comparing efficiency and growth rates.",Intermediate
+Data Structures,How do you perform a binary search on a sorted array?,"Binary search divides the search interval in half, repeatedly comparing the middle element to the target.",Advanced
+Data Structures,Discuss the advantages and disadvantages of different sorting algorithms.,Sorting algorithms vary in time/space complexity and stability. Quick Sort and Merge Sort are fast but more complex; Insertion and Bubble Sort are simple but slower.,Intermediate
+Data Structures,Explain how a hash table works.,"A hash table uses a hash function to map keys to values in an array, allowing fast O(1) access.",Intermediate
+Data Structures,What is dynamic programming?,"Dynamic programming solves complex problems by dividing them into smaller subproblems, avoiding redundant calculations.",Advanced
+Languages and Frameworks,What is the difference between Java and JavaScript?,"Java is a compiled, statically-typed language used for server-side, mobile, and desktop apps. JavaScript is an interpreted, dynamically-typed language for web development.",Intermediate
+Languages and Frameworks,Describe the MVC architectural pattern.,"MVC divides an application into Model (data), View (UI), and Controller (input handling), promoting separation of concerns.",Intermediate
+Languages and Frameworks,What is a RESTful API?,"RESTful API is a web service implementation using HTTP methods to perform CRUD operations on resources, adhering to stateless, client-server architecture.",Intermediate
+Languages and Frameworks,"Explain the use of ""this"" keyword in JavaScript.","""this"" in JavaScript refers to the execution context, varying based on function calling, global scope, or event handlers.",Intermediate
+Languages and Frameworks,What is a closure in programming?,A closure is a function with access to its outer scope variables even after the outer function has executed.,Intermediate
+Languages and Frameworks,What are the differences between Python 2 and Python 3?,"Python 3 has print as a function, true division, Unicode support by default, and different syntax for exceptions, unlike Python 2.",Intermediate
+Languages and Frameworks,Discuss the role of a package manager like npm or pip.,"Package managers manage installation, update, and dependency resolution of libraries, simplifying library management in development.",Advanced
+Languages and Frameworks,Explain the concept of multi-threading in Java.,"Multi-threading in Java allows concurrent execution of multiple threads, improving application responsiveness and performance.",Intermediate
+Languages and Frameworks,What is a Singleton pattern?,"Singleton ensures a class has only one instance and provides a global access point to it, useful for shared resources.",Intermediate
+Languages and Frameworks,What is a virtual function in C++?,"Virtual functions in C++ allow derived classes to override them, enabling runtime polymorphism and dynamic method dispatch.",Intermediate
+Database and SQL,"What is a database index, and why is it important?","A database index speeds up data retrieval, similar to a book's index, improving query performance.",Intermediate
+Database and SQL,Explain the differences between SQL and NoSQL databases.,SQL databases use structured query language with a predefined schema; NoSQL databases store schema-less data with flexible models.,Intermediate
+Database and SQL,What is a foreign key in a database?,"A foreign key links two tables by referring to the primary key in another table, ensuring referential integrity.",Intermediate
+Database and SQL,Describe the ACID properties in database transactions.,"ACID: Atomicity (indivisible transactions), Consistency (consistent state transitions), Isolation (independent transactions), Durability (persisted changes).",Advanced
+Database and SQL,How do you optimize a SQL query for better performance?,"Optimize using indexes, efficient SQL, limiting data retrieval, analyzing query performance, and considering denormalization.",Beginner
+Database and SQL,What is normalization in database design?,"Normalization organizes data into separate tables to reduce redundancy and improve integrity, following normalization forms.",Advanced
+Database and SQL,Explain the difference between INNER JOIN and LEFT JOIN in SQL.,INNER JOIN returns matching rows from both tables; LEFT JOIN returns all rows from the left table and matching rows from the right.,Intermediate
+Database and SQL,"What is a stored procedure, and when would you use one?","Stored procedures are precompiled SQL statements for data manipulation and logic, used for repetitive tasks and improving performance.",Intermediate
+Database and SQL,"What is database denormalization, and when is it appropriate?","Denormalization introduces redundancy for performance, useful in read-heavy scenarios at the expense of storage and complexity.",Intermediate
+Database and SQL,Discuss the advantages and disadvantages of using an ORM tool.,ORM simplifies database interactions and is language-agnostic. It can introduce performance overhead and may limit database features.,Intermediate
+Web Development,What is the Document Object Model (DOM)?,"The DOM is a tree-like representation of a web page's structure, allowing manipulation of content, structure, and style via programming languages.",Advanced
+Web Development,Explain the difference between HTTP and HTTPS.,"HTTP is an unsecured data transmission protocol; HTTPS is secure, encrypting data in transit using SSL/TLS.",Intermediate
+Web Development,What is CORS (Cross-Origin Resource Sharing)?,"CORS is a security measure allowing or restricting resources requested from another domain, managed via HTTP headers.",Intermediate
+Web Development,Describe the purpose of a web server like Apache or Nginx.,"Web servers handle HTTP requests, serve content, manage security, routing, and can act as reverse proxies for application servers.",Intermediate
+Web Development,"What is a cookie, and how does it work?","Cookies are data stored on the user's computer by the web server, sent with HTTP requests for session management, tracking, and storing preferences.",Advanced
+Web Development,What is a session in web development?,"A session maintains stateful information across multiple HTTP requests, typically for user authentication and data storage.",Intermediate
+Web Development,Explain the concept of responsive web design.,"Responsive design ensures web content functions across different devices and screen sizes, using CSS media queries and flexible layouts.",Intermediate
+Web Development,Describe the differences between GET and POST requests.,"GET requests retrieve data and include parameters in the URL; POST requests send data to the server, encapsulating data in the request body.",Intermediate
+Web Development,What is the importance of SEO in web development?,"SEO enhances a website's visibility in search engine results, improving organic traffic and user reach through optimized content and structure.",Intermediate
+Web Development,How does a web browser render a web page?,"Browsers parse HTML to create a DOM, fetch resources, build a rendering tree, apply CSS, calculate layout, and paint the page on the screen.",Intermediate
+Software Testing,"What is unit testing, and why is it important?","Unit testing evaluates individual code components, ensuring correctness and facilitating early defect detection.",Intermediate
+Software Testing,Explain the difference between black-box and white-box testing.,Black-box tests functionality without internal code knowledge; white-box tests internal code logic and structure.,Advanced
+Software Testing,What is regression testing?,"Regression testing ensures new code changes don't break existing features, maintaining functionality over updates.",Beginner
+Software Testing,Describe the purpose of code reviews.,"Code reviews identify defects, improve quality, enforce standards, and facilitate knowledge sharing.",Advanced
+Software Testing,What is continuous integration (CI) and continuous delivery (CD)?,CI involves frequent code integration and testing; CD extends CI by deploying changes to production automatically after testing.,Intermediate
+Software Testing,Explain the concept of code coverage in testing.,"Code coverage measures the extent of code tested, assessing test thoroughness and identifying untested areas.",Intermediate
+Software Testing,What is a test case and how do you write one?,"A test case outlines test conditions, inputs, and expected results, structured with objective, steps, and documentation.",Intermediate
+Software Testing,"What is load testing, and why is it necessary?","Load testing evaluates system performance under expected load conditions, identifying bottlenecks and scalability issues.",Intermediate
+Software Testing,Describe the differences between manual and automated testing.,Manual testing is human-driven; suitable for exploratory and UX testing. Automated testing uses tools for repetitive tasks; suitable for regression and performance testing.,Advanced
+Software Testing,What is a bug tracking system?,"A bug tracking system logs, manages, and resolves issues in software development, ensuring systematic problem handling.",Intermediate
+Version Control,"What is Git, and how does it work?","Git is a distributed version control system for tracking changes in source code, allowing collaborative work and branch management.",Intermediate
+Version Control,Explain the difference between Git and SVN (Subversion).,"Git is distributed, with local repository copies; SVN is centralized, requiring network connectivity for repository access.",Advanced
+Version Control,"What is a merge conflict, and how do you resolve it in Git?",Merge conflicts occur when changes in different branches clash. Resolve by manually editing files and committing the result.,Intermediate
+Version Control,Describe the purpose of branching in version control.,"Branching isolates development work without affecting other parts of the repository, aiding in feature development and experimentation.",Intermediate
+Version Control,"What is a pull request (PR), and how does it work?","A PR is a request to merge code from one branch to another, facilitating code review and discussion before integration.",Intermediate
+Version Control,How do you handle code conflicts in a team project?,"Resolve code conflicts through communication, careful review, manual merging, testing, and documenting resolutions.",Intermediate
+Version Control,"What is code refactoring, and why is it important?","Refactoring improves code structure and readability without altering functionality, enhancing maintainability and quality.",Intermediate
+Version Control,Explain the role of Git branching strategies like GitFlow.,"GitFlow organizes branches and releases, defining naming conventions and branch purposes for structured and organized development.",Intermediate
+Version Control,"What is Git rebase, and when would you use it?",Git rebase re-applies commits onto another base for a cleaner history. Use with caution to maintain a linear project history.,Advanced
+Version Control,Discuss the advantages of distributed version control systems.,"Distributed systems allow offline work, flexible branching/merging, faster operations, redundancy, and collaborative workflows.",Intermediate
+System Design,Describe the concept of microservices architecture.,"Microservices architecture consists of small, independent services communicating via APIs, each responsible for specific functionality, promoting scalability and maintenance.",Intermediate
+System Design,"What is a load balancer, and why is it used in web applications?","A load balancer distributes incoming traffic across servers, ensuring resource efficiency, fault tolerance, and high availability.",Intermediate
+System Design,Explain the importance of caching in web applications.,"Caching stores frequently accessed data for faster retrieval, reducing backend load, improving performance, and enhancing user experience.",Intermediate
+System Design,What is a CDN (Content Delivery Network)?,"A CDN is a network of servers for delivering content efficiently to users based on geographic proximity, reducing latency and load times.",Intermediate
+System Design,Discuss the pros and cons of monolithic vs. microservices architecture.,Monolithic is simple but less scalable; microservices offer scalability and flexibility but are complex to manage.,Intermediate
+System Design,What is a stateless vs. stateful service?,"Stateless services don't retain client data between requests; stateful services maintain client state, useful for sessions and transactions.",Advanced
+System Design,Explain the concept of CAP theorem in distributed systems.,"The CAP theorem states that in a distributed system, you cannot simultaneously guarantee Consistency, Availability, and Partition Tolerance at all times.",Beginner
+System Design,How do you ensure data consistency in a distributed database?,"Ensure consistency using strong consistency models, two-phase commits, optimistic concurrency control, and conflict resolution strategies.",Advanced
+System Design,Describe the role of a reverse proxy in a web application.,"A reverse proxy routes client requests to appropriate servers, providing load balancing, SSL termination, caching, and security.",Intermediate
+System Design,"What is a message broker, and when would you use one?","A message broker facilitates communication in distributed systems through asynchronous messaging, used in event-driven architectures and high-volume scenarios.",Intermediate
+Security,"What is SQL injection, and how can it be prevented?","SQL injection exploits vulnerabilities to execute malicious SQL. Prevent with parameterized queries, input validation, and least privilege access.",Intermediate
+Security,Explain the concept of Cross-Site Scripting (XSS).,"XSS injects malicious scripts into web apps, executed by users' browsers. Prevent with input validation, output encoding, and CSP.",Intermediate
+Security,What is two-factor authentication (2FA)?,2FA adds extra security by requiring two verification forms: something known (password) and something possessed (device).,Advanced
+Security,Describe the process of password hashing and salting.,"Hashing transforms passwords into hashes using algorithms; salting adds randomness, enhancing security against attacks.",Intermediate
+Security,"What is OAuth, and how does it work?","OAuth allows third-party app access to user data without exposing credentials, using access tokens for authorization.",Intermediate
+Security,How do you protect against session fixation attacks?,"Protect by regenerating session IDs post-authentication, using unpredictable IDs, and tying IDs to user authentication.",Intermediate
+Security,Explain the principles of least privilege and defense in depth.,Least privilege limits access rights; defense in depth layers security. Both minimize attack surfaces and provide redundancy.,Advanced
+Security,What is a DDoS (Distributed Denial of Service) attack?,"A DDoS attack overwhelms a target with traffic, causing unavailability. Mitigate with DDoS protection, rate limiting, and traffic analysis.",Intermediate
+Security,How can you secure sensitive data in a mobile app?,"Secure data by encrypting at rest and in transit, using secure authentication, and following best practices.",Intermediate
+Security,Discuss the importance of security in API design.,"API security is vital to protect data and prevent unauthorized access, using authentication, validation, rate limiting, and encryption.",Intermediate
+DevOps,"What is Docker, and how does it work?","Docker is a containerization platform packaging applications with dependencies, ensuring consistent environments across systems.",Intermediate
+DevOps,Explain the concept of container orchestration.,"Container orchestration automates deployment, scaling, and management of containers, optimizing resource use and handling failures.",Intermediate
+DevOps,"What is Kubernetes, and why is it popular in container management?","Kubernetes is an open-source container orchestration platform automating deployment and management, known for its scalability and community support.",Intermediate
+DevOps,Describe the process of continuous integration and continuous delivery (CI/CD).,"CI/CD automates build, test, and deployment processes, delivering code changes rapidly and reliably to production.",Advanced
+DevOps,What is infrastructure as code (IaC)?,"IaC manages infrastructure using code, ensuring consistency, automation, and version control in deployments.",Beginner
+DevOps,How do you monitor the performance of a web application?,"Monitor using tools to collect and analyze data on response times, resource utilization, error rates, and user experience.",Advanced
+DevOps,Discuss the importance of automated testing in CI/CD pipelines.,"Automated testing in CI/CD ensures code changes are defect-free, enhancing reliability and speeding up delivery.",Intermediate
+DevOps,"What is Blue-Green deployment, and when would you use it?",Blue-Green deployment alternates between two production environments for Beginner rollbacks and minimal downtime during updates.,Intermediate
+DevOps,Explain the role of a configuration management tool like Ansible.,"Configuration management tools automate provisioning and management of software and infrastructure, ensuring consistency and efficiency.",Intermediate
+DevOps,"Describe the benefits of using a cloud platform like AWS, Azure, or Google Cloud.","Cloud platforms offer scalability, cost-efficiency, global reach, and managed services, reducing operational burdens with security and compliance features.",Intermediate
+Front-end,Explain the concept of 'closure' in JavaScript.,A closure is a function that remembers its outer variables and can access them.,Advanced
+DevOps,Describe the use of Docker in a DevOps environment.,"Docker allows for packaging applications in containers, facilitating consistent deployment across different environments.",Intermediate
+Back-end,What is a 'race condition' in software development?,A race condition occurs when the system's behavior depends on the sequence or timing of other uncontrollable events.,Intermediate
+Front-end,How would you optimize a website's load time?,"Optimizations can include minimizing HTTP requests, using CDNs, compressing files, caching, etc.",Advanced
+Back-end,What is the difference between SQL and NoSQL databases?,"SQL databases are structured, use SQL, and are better for complex queries. NoSQL databases are flexible, scale well, and are good for hierarchical data storage.",Intermediate
+Front-end,Can you explain the concept of 'state' in React?,State in React is an object that holds some information that may change over the lifecycle of the component.,Intermediate
+DevOps,What is continuous integration in DevOps?,Continuous integration is the practice of automating the integration of code changes into a software project.,Intermediate
+Full-stack,How do you implement a binary search algorithm?,"Binary search involves repeatedly dividing in half the portion of the list that could contain the item, until you've narrowed the possibilities to just one.",Intermediate
+Full-stack,Describe the MVC architecture.,"MVC architecture stands for Model-View-Controller, separating the application into three interconnected components.",Intermediate
+Back-end,What are microservices and how do they differ from monolithic architectures?,"Microservices are a software development techniqueÄîa variant of the service-oriented architecture architectural style that structures an application as a collection of loosely coupled services. In a monolithic architecture, all components are interconnected and interdependent.",Intermediate
+Front-end,Explain the difference between '==' and '===' in JavaScript.,"'==' compares values after type conversion, while '===' compares both value and type.",Advanced
+DevOps,What is Kubernetes and how does it relate to containerization?,"Kubernetes is an open-source platform for automating deployment, scaling, and operations of application containers across clusters of hosts.",Intermediate
+Back-end,Describe how you would implement a RESTful API in a back-end application.,"A RESTful API is implemented by setting up HTTP routes (GET, POST, PUT, DELETE) and handling requests and responses in a stateless manner, often using JSON.",Intermediate
+Front-end,What are the benefits of server-side rendering vs client-side rendering?,"Server-side rendering improves initial page load time and SEO, while client-side rendering is good for dynamic websites with less initial loading content.",Intermediate
+Back-end,How do NoSQL databases handle data scaling compared to traditional SQL databases?,NoSQL databases are generally more scalable and provide superior performance for large-scale applications due to their flexibility in handling unstructured data.,Intermediate
+Front-end,Explain the use of hooks in React.,Hooks are functions that let you 'hook into' React state and lifecycle features from function components.,Intermediate
+DevOps,What is Infrastructure as Code (IaC) and its significance in DevOps?,"IaC is the management of infrastructure (networks, virtual machines, load balancers, etc.) in a descriptive model, using code, which increases development and deployment speed.",Intermediate
+Full-stack,Describe the process of memoization in programming.,Memoization is an optimization technique used to speed up programs by storing the results of expensive function calls.,Advanced
+Back-end,What are the advantages of using a microservices architecture?,"Advantages include easier scalability, flexibility in choosing technology, better fault isolation, and improved continuous deployment.",Beginner
+Full-stack,Explain the SOLID principles in software engineering.,"SOLID stands for Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion principles, guiding towards more maintainable, understandable, and flexible software.",Advanced
+Front-end,What is lazy loading in web development?,"Lazy loading is a design pattern that delays loading of non-critical resources at page load time, reducing initial load time and page weight.",Intermediate
+DevOps,Discuss the role of a load balancer in a distributed system.,A load balancer distributes network or application traffic across multiple servers to enhance responsiveness and availability of applications.,Intermediate
+Back-end,How does indexing improve database query performance?,"Indexing speeds up data retrieval operations by effectively creating a smaller, faster version of the database table.",Intermediate
+Front-end,Explain event delegation in JavaScript.,Event delegation refers to the practice of using a single event listener to manage all events of a specific type for child elements.,Intermediate
+Front-end,Explain the concept of 'closure' in JavaScript.,A closure is a function that remembers its outer variables and can access them.,Advanced
+DevOps,Describe the use of Docker in a DevOps environment.,"Docker allows for packaging applications in containers, facilitating consistent deployment across different environments.",Intermediate
+Back-end,What is a 'race condition' in software development?,A race condition occurs when the system's behavior depends on the sequence or timing of other uncontrollable events.,Advanced
+Front-end,How would you optimize a website's load time?,"Optimizations can include minimizing HTTP requests, using CDNs, compressing files, caching, etc.",Intermediate
+Back-end,What is the difference between SQL and NoSQL databases?,"SQL databases are structured, use SQL, and are better for complex queries. NoSQL databases are flexible, scale well, and are good for hierarchical data storage.",Intermediate
+Front-end,Can you explain the concept of 'state' in React?,State in React is an object that holds some information that may change over the lifecycle of the component.,Intermediate
+DevOps,What is continuous integration in DevOps?,Continuous integration is the practice of automating the integration of code changes into a software project.,Intermediate
+Full-stack,How do you implement a binary search algorithm?,"Binary search involves repeatedly dividing in half the portion of the list that could contain the item, until you've narrowed the possibilities to just one.",Intermediate
+Full-stack,Describe the MVC architecture.,"MVC architecture stands for Model-View-Controller, separating the application into three interconnected components.",Intermediate
+Back-end,What are microservices and how do they differ from monolithic architectures?,"Microservices are a software development techniqueÄîa variant of the service-oriented architecture architectural style that structures an application as a collection of loosely coupled services. In a monolithic architecture, all components are interconnected and interdependent.",Advanced
+Front-end,Explain the difference between '==' and '===' in JavaScript.,"'==' compares values after type conversion, while '===' compares both value and type.",Beginner
+DevOps,What is Kubernetes and how does it relate to containerization?,"Kubernetes is an open-source platform for automating deployment, scaling, and operations of application containers across clusters of hosts.",Advanced
+Back-end,Describe how you would implement a RESTful API in a back-end application.,"A RESTful API is implemented by setting up HTTP routes (GET, POST, PUT, DELETE) and handling requests and responses in a stateless manner, often using JSON.",Intermediate
+Front-end,What are the benefits of server-side rendering vs client-side rendering?,"Server-side rendering improves initial page load time and SEO, while client-side rendering is good for dynamic websites with less initial loading content.",Intermediate
+Back-end,How do NoSQL databases handle data scaling compared to traditional SQL databases?,NoSQL databases are generally more scalable and provide superior performance for large-scale applications due to their flexibility in handling unstructured data.,Intermediate
+Front-end,Explain the use of hooks in React.,Hooks are functions that let you 'hook into' React state and lifecycle features from function components.,Intermediate
+DevOps,What is Infrastructure as Code (IaC) and its significance in DevOps?,"IaC is the management of infrastructure (networks, virtual machines, load balancers, etc.) in a descriptive model, using code, which increases development and deployment speed.",Advanced
+Full-stack,Describe the process of memoization in programming.,Memoization is an optimization technique used to speed up programs by storing the results of expensive function calls.,Intermediate
+Back-end,What are the advantages of using a microservices architecture?,"Advantages include easier scalability, flexibility in choosing technology, better fault isolation, and improved continuous deployment.",Intermediate
+Full-stack,Explain the SOLID principles in software engineering.,"SOLID stands for Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion principles, guiding towards more maintainable, understandable, and flexible software.",Advanced
+Front-end,What is lazy loading in web development?,"Lazy loading is a design pattern that delays loading of non-critical resources at page load time, reducing initial load time and page weight.",Intermediate
+DevOps,Discuss the role of a load balancer in a distributed system.,A load balancer distributes network or application traffic across multiple servers to enhance responsiveness and availability of applications.,Intermediate
+Back-end,How does indexing improve database query performance?,"Indexing speeds up data retrieval operations by effectively creating a smaller, faster version of the database table.",Intermediate
+Front-end,Explain event delegation in JavaScript.,Event delegation refers to the practice of using a single event listener to manage all events of a specific type for child elements.,Intermediate
+Front-end,Explain the concept of 'closure' in JavaScript.,A closure is a function that remembers its outer variables and can access them.,Intermediate
+DevOps,Describe the use of Docker in a DevOps environment.,"Docker allows for packaging applications in containers, facilitating consistent deployment across different environments.",Intermediate
+System Design,Design a distributed key-value store.,"Focus on data partitioning, replication for fault tolerance, consistency models, and handling node failures.",Advanced
+Algorithms,Implement a function to check if a binary tree is balanced.,Use a recursive function to check the height of each subtree; return false if the difference is more than one.,Advanced
+System Design,Design a URL shortening service like bit.ly.,"Consider efficient hashing, collision resolution, database schema, scalability, and API rate limiting.",Advanced
+Machine Learning,Which techniques can be used to design a recommendation system for a large e-commerce platform?,"Use collaborative filtering, content-based filtering, or hybrid methods; consider scalability and real-time processing.",Advanced
+Algorithms,Write an algorithm to find the median of a stream of numbers.,"Use two heaps (max heap for lower half, min heap for upper half) to maintain the median.",Advanced
+Distributed Systems,Explain the Raft consensus algorithm.,"Discuss leader election, log replication, safety, and how Raft achieves consensus in a distributed system.",Advanced
+Networking,"Optimize a global, high-traffic content delivery network.","Use strategies like caching, edge locations, load balancing, and optimizing routing and data compression.",Advanced
+System Design,Design a chat application that can scale to millions of users.,"Consider websocket protocol for real-time communication, efficient message broadcasting, and scalable backend architecture.",Advanced
+Low-level Systems,Implement a garbage collector for a programming language.,"Understand memory management concepts like mark-and-sweep, reference counting, and generational collection.",Advanced
+System Design,Design a scalable notification system for a social network.,"Focus on system architecture, push vs. pull models, handling peak loads, database optimization, and message queuing.",Advanced
+Networking,Explain the workings of the TCP protocol for a low-latency network.,"Focus on the three-way handshake, congestion control (like TCP Fast Open, and CUBIC), and optimizing for reduced latency.",Advanced
+Data Structures,Enlist techniques to design and implement a concurrent hash map.,Implement with fine-grained locking or lock-free techniques to ensure thread safety and high concurrency.,Advanced
+Algorithms,Find the Kth largest element in a stream of numbers.,"Utilize a min-heap to keep track of the K largest elements, ensuring efficient insertion and extraction.",Advanced
+Algorithms,Implement Google's PageRank algorithm.,Use graph-based algorithms focusing on eigenvector calculation and iterative approaches.,Advanced
+System Design,Design an API rate limiter for a web service.,"Use token bucket or leaky bucket algorithms, consider distributed storage for scalability.",Advanced
+Database Systems,Optimize database queries for a high-traffic website.,"Focus on indexing, query optimization, using caching, database sAdvanceding, and efficient schema design.",Advanced
+Security,Create a secure and scalable authentication system for a web application.,"Implement OAuth for third-party integrations, use JWT for stateless authentication, and ensure protection against common security vulnerabilities.",Advanced
+Database Systems,Design a system for efficient storage and retrieval of large-scale time-series data.,"Optimize for write-heavy loads, use time-based partitioning, efficient indexing, and consider data compression techniques.",Advanced
+Distributed Systems,Explain how a blockchain works and how to implement one.,"Focus on cryptographic hashing, decentralized consensus algorithms (like Proof of Work), and the maintenance of a distributed ledger.",Advanced
+System Design,Design an efficient parking lot management system.,"Use object-oriented design principles, focus on efficiently handling different vehicle sizes, and optimizing space usage.",Advanced
+Machine Learning,Which factors are considered while developing a machine learning model to predict stock prices?,"Consider time series analysis, regression models, and reinforcement learning; pay attention to features and data preprocessing.",Advanced
+Low-level Systems,Write a custom memory allocator for a C++ application.,"Discuss memory pool allocation, handling fragmentation, and optimizing for allocation/deallocation speed.",Advanced
+System Design,Design a real-time multiplayer online game architecture.,"Focus on handling high network traffic, efficient state synchronization, latency reduction, and scalability.",Advanced
+Distributed Systems,Implement a distributed file system.,"Address challenges in data distribution, replication, fault tolerance, consistency, and performance.",Advanced
+Algorithms,Optimize a search algorithm for a large dataset in a distributed environment.,Implement distributed searching algorithms like MapReduce for scalability and efficiency.,Advanced
+Data Engineering,Design a data pipeline for processing big data in real-time.,"Utilize stream processing frameworks (like Apache Kafka, Spark Streaming), ensure fault tolerance, and manage backpressure.",Advanced
+System Design,Build a high-frequency trading system and discuss its components.,"Focus on low latency, high throughput, reliable data feeds, order execution systems, and concurrent algorithms.",Advanced
+Machine Learning,Develop a deep learning model to analyze and interpret medical images.,"Use convolutional neural networks, pay attention to dataset quality and preprocessing, and handle class imbalances.",Advanced
+Artificial Intelligence,What AI techniques can be used to implement a complex board game at a competitive level.,"Implement advanced AI techniques like Monte Carlo Tree Search, deep learning, and reinforcement learning.",Advanced
+Security,Design a fraud detection system for online transactions.,"Use machine learning for anomaly detection, implement rule-based systems for known fraud patterns, ensure real-time processing.",Advanced
+Distributed Systems,Implement a distributed graph processing framework.,"Discuss vertex-centric computation, message passing between nodes, and optimizations for large-scale processing.",Advanced
+System Design,Design a global video streaming service like Netflix.,"Focus on CDN usage, adaptive bitrate streaming, content caching strategies, and handling peak traffic loads.",Advanced
+Algorithms,Create a system to efficiently match job seekers with job postings.,"Use NLP for parsing resumes, implement ranking algorithms, and optimize for search and matching efficiency.",Advanced
+Distributed Systems,Design and implement a large-scale distributed cache system.,"Consider consistency, data partitioning, eviction policies, and fault tolerance in distributed caching.",Advanced
+Networking,Optimize network protocols for a satellite communication system.,"Address latency, data loss, and bandwidth issues; optimize for long-distance and high-latency networks.",Advanced
+Algorithms,Develop an autonomous vehicle's path planning algorithm.,"Implement algorithms considering real-time obstacle avoidance, dynamic path adjustments, and efficient routing.",Advanced
+System Design,Design a scalable and reliable messaging system for a large corporation.,"Utilize message queues (like Kafka, RabbitMQ), ensure fault tolerance, and implement load balancing.",Advanced
+Machine Learning,Which NLP techniques are used to implement a natural language processing algorithm to understand and answer user queries.,"Use NLP techniques like tokenization, parsing, and deep learning models for understanding and generating responses.",Advanced
+Algorithms,Create an efficient algorithm for real-time anomaly detection in network traffic.,Implement statistical models or machine learning algorithms to detect unusual patterns indicative of anomalies.,Advanced
+System Design,Design a system to manage and process Internet of Things (IoT) data.,"Focus on handling large-scale data influx, real-time processing, data storage, and analytics.",Advanced
+Low-level Systems,Build a compiler for a new programming language.,"Discuss lexical analysis, parsing, syntax tree generation, semantic analysis, and code generation.",Advanced
+Algorithms,Implement a robust text editor with features like auto-complete and syntax highlighting.,"Consider efficient data structures for text storage (like gap buffers), and algorithms for syntax parsing.",Advanced
+System Design,Design a scalable infrastructure for an online advertising platform.,"Focus on handling high-volume traffic, data analytics, ad targeting algorithms, and ensuring low-latency responses.",Advanced
+Machine Learning,A machine learning algorithm uses which features to detect fake news on social media?,"Use NLP for text analysis, implement classification algorithms, and consider the challenge of unstructured data.",Advanced
+Database Systems,Optimize an SQL database for a high-volume financial transaction system.,"Focus on transaction isolation levels, indexing strategies, query optimization, and database sAdvanceding.",Advanced
+System Design,Design a cloud-based virtual desktop infrastructure.,"Address virtualization technologies, resource allocation, security, and remote access protocols.",Advanced
+Data Engineering,Create a real-time sports analytics system using sensor data.,"Utilize streaming data processing, machine learning for pattern recognition, and efficient data storage solutions.",Advanced
+Algorithms,Implement a quantum algorithm for solving a well-known computational problem.,"Discuss quantum computing principles, qubit manipulation, and specific algorithms like Grover's or Shor's algorithm.",Advanced
+Security,Design a secure mobile payment system for developing countries.,"Focus on security protocols, offline capabilities, user authentication, and low-resource optimizations.",Advanced
+System Design,Build a scalable image processing pipeline for a photo-sharing app.,"Implement distributed processing, efficient storage, and consider ML techniques for feature extraction.",Advanced
+Machine Learning,What is supervised machine learning? ,"Supervised learning is a type of machine learning in which our algorithms are trained using well-labeled training data, and machines predict the output based on that data. Labeled data indicates that theÄö†input data has already been tagged with the appropriate output. Basically, it is the task of learning a function that maps the input set and returns an output. Some of its examples are: Linear Regression, Logistic Regression, KNN, etc.",Beginner
+Machine Learning,What is regression? Which models can you use to solve a regression problem? ,"Regression is a part of supervised ML. Regression models investigate the relationship between a dependent (target) and independent variable (s) (predictor).
+Here are some common regression models
+
+- *Linear Regression* establishes a linear relationship between target and predictor (s). It predicts a numeric value and has a shape of a straight line.
+- *Polynomial Regression* has a regression equation with the power of independent variable more than 1. It is a curve that fits into the data points.
+- *Ridge Regression* helps when predictors are highly correlated (multicollinearity problem). It penalizes the squares of regression coefficients but doesnt allow the coefficients to reach zeros (uses L2 regularization).
+- *Lasso Regression* penalizes the absolute values of regression coefficients and allows some of the coefficients to reach absolute zero (thereby allowing feature selection).",Intermediate
+Machine Learning,What is linear regression? When do we use it? ,"Linear regression is a model that assumes a linear relationship between the input variables (X) and the single output variable (y).
+
+With a simple equation:
+
+```
+y = B0 + B1*x1 + ... + Bn * xN
+```
+
+B is regression coefficients, x values are the independent (explanatory) variables  and y is dependent variable.
+
+The case of one explanatory variable is called simple linear regression. For more than one explanatory variable, the process is called multiple linear regression.
+
+Simple linear regression:
+
+```
+y = B0 + B1*x1
+```
+
+Multiple linear regression:
+
+```
+y = B0 + B1*x1 + ... + Bn * xN
+```",Beginner
+Machine Learning,What are the main assumptions of linear regression? ,"There are several assumptions of linear regression. If any of them is violated, model predictions and interpretation may be worthless or misleading.
+
+1. **Linear relationship** between features and target variable.
+2. **Additivity** means that the effect of changes in one of the features on the target variable does not depend on values of other features. For example, a model for predicting revenue of a company have of two features - the number of items _a_ sold and the number of items _b_ sold. When company sells more items _a_ the revenue increases and this is independent of the number of items _b_ sold. But, if customers who buy _a_ stop buying _b_, the additivity assumption is violated.
+3. Features are not correlated (no **collinearity**) since it can be difficult to separate out the individual effects of collinear features on the target variable.
+4. Errors are independently and identically normally distributed (y<sub>i</sub> = B0 + B1*x1<sub>i</sub> + ... + error<sub>i</sub>):
+   1. No correlation between errors (consecutive errors in the case of time series data).
+   2. Constant variance of errors - **homoscedasticity**. For example, in case of time series, seasonal patterns can increase errors in seasons with higher activity.
+   3. Errors are normally distributed, otherwise some features will have more influence on the target variable than to others. If the error distribution is significantly non-normal, confidence intervals may be too wide or too narrow.",Beginner
+Others,What the normal distribution? Why do we care about it? ,"The normal distribution is a continuous probability distribution whose probability density function takes the following formula:
+
+![formula](https://mathworld.wolfram.com/images/equations/NormalDistribution/NumberedEquation1.gif)
+
+where is the mean and  is the standard deviation of the distribution.
+
+The normal distribution derives its importance from the **Central Limit Theorem**, which states that if we draw a large enough number of samples, their mean will follow a normal distribution regardless of the initial distribution of the sample, i.e **the distribution of the mean of the samples is normal**. It is important that each sample is independent from the other.
+
+This is powerful because it helps us study processes whose population distribution is unknown to us.",Intermediate
+Others,How do we check if a variable follows the normal distribution? ,"1. Plot a histogram out of the sampled data. If you can fit the bell-shaped ""normal"" curve to the histogram, then the hypothesis that the underlying random variable follows the normal distribution can not be rejected.
+2. Check Skewness and Kurtosis of the sampled data. Skewness = 0 and kurtosis = 3 are typical for a normal distribution, so the farther away they are from these values, the more non-normal the distribution.
+3. Use Kolmogorov-Smirnov or/and Shapiro-Wilk tests for normality. They take into account both Skewness and Kurtosis simultaneously.
+4. Check for Quantile-Quantile plot. It is a scatterplot created by plotting two sets of quantiles against one another. Normal Q-Q plot place the data points in a roughly straight line.",Intermediate
+Others,What if we want to build a model for predicting prices? Are prices distributed normally? Do we need to do any pre-processing for prices?,"Data is not normal. Specially, real-world datasets or uncleaned datasets always have certain skewness. Same goes for the price prediction. Price of houses or any other thing under consideration depends on a number of factors. So, there's a great chance of presence of some skewed values i.e outliers if we talk in data science terms. 
+
+Yes, you may need to do pre-processing. Most probably, you will need to remove the outliers to make your distribution near-to-normal.",Advanced
+Machine Learning,What methods for solving linear regression do you know?,"To solve linear regression, you need to find the coefficients <img src=""https://render.githubusercontent.com/render/math?math=eta""> which minimize the sum of squared errors.
+
+Matrix Algebra method: Let's say you have `X`, a matrix of features, and `y`, a vector with the values you want to predict. After going through the matrix algebra and minimization problem, you get this solution: <img src=""https://render.githubusercontent.com/render/math?math=eta = (X^{T}X)^{-1}X^{T}y"">. 
+
+But solving this requires you to find an inverse, which can be time-consuming, if not impossible. Luckily, there are methods like Singular Value Decomposition (SVD) or QR Decomposition that can reliably calculate this part <img src=""https://render.githubusercontent.com/render/math?math=(X^{T}X)^{-1}X^{T}""> (called the pseudo-inverse) without actually needing to find an inverse. The popular python ML library `sklearn` uses SVD to solve least squares.
+
+Alternative method: Gradient Descent. See explanation below.",Beginner
+Others,What is gradient descent? How does it work?,"Gradient descent is an algorithm that uses calculus concept of gradient to try and reach local or global minima. It works by taking the negative of the gradient in a point of a given function, and updating that point repeatedly using the calculated negative gradient, until the algorithm reaches a local or global minimum, which will cause future iterations of the algorithm to return values that are equal or too close to the current point. It is widely used in machine learning applications.",Beginner
+Others,What is the normal equation?,Normal equations are equations obtained by setting equal to zero the partial derivatives of the sum of squared errors (least squares); normal equations allow one to estimate the parameters of a multiple linear regression.,Beginner
+Others,What is SGD stochastic gradient descent? What the difference with the usual gradient descent?è,"In both gradient descent (GD) and stochastic gradient descent (SGD), you update a set of parameters in an iterative manner to minimize an error function.
+
+The difference lies in how the gradient of the loss function is estimated. In the usual GD, you have to run through ALL the samples in your training set in order to estimate the gradient and do a single update for a parameter in a particular iteration. In SGD, on the other hand, you use ONLY ONE or SUBSET of training sample from your training set to estimate the gradient and do the update for a parameter in a particular iteration. If you use SUBSET, it is called Minibatch Stochastic gradient Descent.",Intermediate
+Machine Learning,Which metrics for evaluating regression models do you know?,"1. Mean Squared Error(MSE)
+2. Root Mean Squared Error(RMSE)
+3. Mean Absolute Error(MAE)
+4. RÄö≤ or Coefficient of Determination
+5. Adjusted RÄö≤",Beginner
+Others,What are MSE and RMSE?,MSE stands for <strong>M</strong>ean <strong>S</strong>quare <strong>E</strong>rror while RMSE stands for <strong>R</strong>oot <strong>M</strong>ean <strong>S</strong>quare <strong>E</strong>rror. They are metrics with which we can evaluate models.,Beginner
+Others,What is the bias-variance trade-off?,"**Bias** is the error introduced by approximating the true underlying function, which can be quite complex, by a simpler model. **Variance** is a model sensitivity to changes in the training dataset.
+
+**Bias-variance trade-off** is a relationship between the expected test error and the variance and the bias - both contribute to the level of the test error and ideally should be as small as possible:
+
+```
+ExpectedTestError = Variance + BiasÄö≤ + IrreducibleError
+```
+
+But as a model complexity increases, the bias decreases and the variance increases which leads to *overfitting*. And vice versa, model simplification helps to decrease the variance but it increases the bias which leads to *underfitting*.",Beginner
+Others,What is overfitting?,"When your model perform very well on your training set but can't generalize the test set, because it adjusted a lot to the training set.",Beginner
+Others,How to validate your models?,"One of the most common approaches is splitting data into train, validation and test parts.
+Models are trained on train data, hyperparameters (for example early stopping) are selected based on the validation data, the final measurement is done on test dataset.
+Another approach is cross-validation: split dataset into K folds and each time train models on training folds and measure the performance on the validation folds.
+Also you could combine these approaches: make a test/holdout dataset and do cross-validation on the rest of the data. The final quality is measured on test dataset.",Beginner
+Others,"Why do we need to split our data into three parts: train, validation, and test?","The training set is used to fit the model, i.e. to train the model with the data. The validation set is then used to provide an unbiased evaluation of a model while fine-tuning hyperparameters. This improves the generalization of the model. Finally, a test data set which the model has never ""seen"" before should be used for the final evaluation of the model. This allows for an unbiased evaluation of the model. The evaluation should never be performed on the same data that is used for training. Otherwise the model performance would not be representative.",Intermediate
+Others,Can you explain how cross-validation works?,"Cross-validation is the process to separate your total training set into two subsets: training and validation set, and evaluate your model to choose the hyperparameters. But you do this process iteratively, selecting different training and validation set, in order to reduce the bias that you would have by selecting only one validation set.",Beginner
+Others,What is K-fold cross-validation?,"K fold cross validation is a method of cross validation where we select a hyperparameter k. The dataset is now divided into k parts. Now, we take the 1st part as validation set and remaining k-1 as training set. Then we take the 2nd part as validation set and remaining k-1 parts as training set. Like this, each part is used as validation set once and the remaining k-1 parts are taken together and used as training set.
+It should not be used in a time series data.",Beginner
+Others,How do we choose K in K-fold cross-validation? What your favorite K?,"There are two things to consider while deciding K: the number of models we get and the size of validation set. We do not want the number of models to be too less, like 2 or 3. At least 4 models give a less biased decision on the metrics. On the other hand, we would want the dataset to be at least 20-25% of the entire data. So that at least a ratio of 3:1 between training and validation set is maintained.",Intermediate
+Machine Learning,What is classification? Which models would you use to solve a classification problem?,"Classification problems are problems in which our prediction space is discrete, i.e. there is a finite number of values the output variable can be. Some models which can be used to solve classification problems are: logistic regression, decision tree, random forests, multi-layer perceptron, one-vs-all, amongst others.",Intermediate
+Machine Learning,What is logistic regression? When do we need to use it?,"Logistic regression is a Machine Learning algorithm that is used for binary classification. You should use logistic regression when your Y variable takes only two values, e.g. True and False, ""spam"" and ""not spam"", ""churn"" and ""not churn"" and so on. The variable is said to be a ""binary"" or ""dichotomous"".",Intermediate
+Machine Learning,Is logistic regression a linear model? Why?,"Yes, Logistic Regression is considered a generalized linear model because the outcome always depends on the sum of the inputs and parameters. Or in other words, the output cannot depend on the product (or quotient, etc.) of its parameters.",Beginner
+Others,What is sigmoid? What does it do?,"A sigmoid function is a type of activation function, and more specifically defined as a squashing function. Squashing functions limit the output to a range between 0 and 1, making these functions useful in the prediction of probabilities.
+
+Sigmod(x) = 1/(1+e^{-x})",Beginner
+Machine Learning,How do we evaluate classification models?,"Depending on the classification problem, we can use the following evaluation metrics:
+
+1. Accuracy
+2. Precision
+3. Recall
+4. F1 Score
+5. Logistic loss (also known as Cross-entropy loss)
+6. Jaccard similarity coefficient score",Beginner
+Others,What is accuracy?,Accuracy is a metric for evaluating classification models. It is calculated by dividing the number of correct predictions by the number of total predictions.,Beginner
+Others,Is accuracy always a good metric?,"Accuracy is not a good performance metric when there is imbalance in the dataset. For example, in binary classification with 95% of A class and 5% of B class, a constant prediction of A class would have an accuracy of 95%. In case of imbalance dataset, we need to choose Precision, recall, or F1 Score depending on the problem we are trying to solve.",Beginner
+Others,What is the confusion table? What are the cells in this table?,"Confusion table (or confusion matrix) shows how many True positives (TP), True Negative (TN), False Positive (FP) and False Negative (FN) model has made.
+
+||                |     Actual   |        Actual |
+|:---:|   :---:        |     :---:    |:---:          |
+||                | Positive (1) | Negative (0)  |
+|Predicted|   Positive (1) | TP           | FP            |
+|Predicted|   Negative (0) | FN           | TN            |
+
+* True Positives (TP): When the actual class of the observation is 1 (True) and the prediction is 1 (True)
+* True Negative (TN): When the actual class of the observation is 0 (False) and the prediction is 0 (False)
+* False Positive (FP): When the actual class of the observation is 0 (False) and the prediction is 1 (True)
+* False Negative (FN): When the actual class of the observation is 1 (True) and the prediction is 0 (False)
+
+Most of the performance metrics for classification models are based on the values of the confusion matrix.",Intermediate
+Others,"What are precision, recall, and F1-score?","* Precision and recall are classification evaluation metrics:
+* P = TP / (TP + FP) and R = TP / (TP + FN).
+* Where TP is true positives, FP is false positives and FN is false negatives
+* In both cases the score of 1 is the best: we get no false positives or false negatives and only true positives.
+* F1 is a combination of both precision and recall in one score (harmonic mean):
+* F1 = 2 * PR / (P + R).
+* Max F score is 1 and min is 0, with 1 being the best.",Beginner
+Others,Precision-recall trade-off è,"Tradeoff means increasing one parameter would lead to decreasing of other. Precision-recall tradeoff occur due to increasing one of the parameter(precision or recall) while keeping the model same. 
+
+In an ideal scenario where there is a perfectly separable data, both precision and recall can get maximum value of 1.0. But in most of the practical situations, there is noise in the dataset and the dataset is not perfectly separable. There might be some points of positive class closer to the negative class and vice versa. In such cases, shifting the decision boundary can either increase the precision or recall but not both. Increasing one parameter leads to decreasing of the other.",Beginner
+Others,What is the ROC curve? When to use it? è,ROC stands for *Receiver Operating Characteristics*. The diagrammatic representation that shows the contrast between true positive rate vs false positive rate. It is used when we need to predict the probability of the binary outcome.,Intermediate
+Others,What is AUC (AU ROC)? When to use it? è,"AUC stands for *Area Under the ROC Curve*. ROC is a probability curve and AUC represents degree or measure of separability. It's used when we need to value how much model is capable of distinguishing between classes.  The value is between 0 and 1, the higher the better.",Intermediate
+Others,How to interpret the AU ROC score? è,"AUC score is the value of *Area Under the ROC Curve*. 
+
+If we assume ROC curve consists of dots, <img src=""https://render.githubusercontent.com/render/math?math=(x_1, y_1), (x_2, y_2), \cdots, (x_m,y_m)"">, then
+
+<img src=""https://render.githubusercontent.com/render/math?math=AUC = rac{1}{2} \sum_{i=1}^{m-1}(x_{i%2B1}-x_i)\cdot (y_i%2By_{i%2B1})"">
+
+An excellent model has AUC near to the 1 which means it has good measure of separability. A poor model has AUC near to the 0 which means it has worst measure of separability. When AUC score is 0.5, it means model has no class separation capacity whatsoever.",Beginner
+Others,What is the PR (precision-recall) curve? è,A *precision*-*recall curve* (or PR Curve) is a plot of the precision (y-axis) and the recall (x-axis) for different probability thresholds. Precision-recall curves (PR curves) are recommended for highly skewed domains where ROC curves may provide an excessively optimistic view of the performance.,Beginner
+Others,What is the area under the PR curve? Is it a useful metric? èI,"The Precision-Recall AUC is just like the ROC AUC, in that it summarizes the curve with a range of threshold values as a single score.
+
+A high area under the curve represents both high recall and high precision, where high precision relates to a low false positive rate, and high recall relates to a low false negative rate.",Intermediate
+Others,In which cases AU PR is better than AU ROC? è,"What is different however is that AU ROC looks at a true positive rate TPR and false positive rate FPR while AU PR looks at positive predictive value PPV and true positive rate TPR.
+
+Typically, if true negatives are not meaningful to the problem or you care more about the positive class, AU PR is typically going to be more useful; otherwise, If you care equally about the positive and negative class or your dataset is quite balanced, then going with AU ROC is a good idea.",Intermediate
+Others,What do we do with categorical variables? è,"Categorical variables must be encoded before they can be used as features to train a machine learning model. There are various encoding techniques, including:
+- One-hot encoding
+- Label encoding
+- Ordinal encoding
+- Target encoding",Beginner
+Others,Why do we need one-hot encoding? è,"If we simply encode categorical variables with a Label encoder, they become ordinal which can lead to undesirable consequences. In this case, linear models will treat category with id 4 as twice better than a category with id 2. One-hot encoding allows us to represent a categorical variable in a numerical vector space which ensures that vectors of each category have equal distances between each other. This approach is not suited for all situations, because by using it with categorical variables of high cardinality (e.g. customer id) we will encounter problems that come into play because of the curse of dimensionality.",Beginner
+Others,"What is ""curse of dimensionality""? è","The curse of dimensionality is an issue that arises when working with high-dimensional data. It is often said that ""the curse of dimensionality"" is one of the main problems with machine learning. The curse of dimensionality refers to the fact that, as the number of dimensions (features) in a data set increases, the number of data points required to accurately learn the relationships between those features increases exponentially.
+
+A simple example where we have a data set with two features, x1 and x2. If we want to learn the relationship between these two features, we need to have enough data points so that we can accurately estimate the parameters of that relationship. However, if we add a third feature, x3, then the number of data points required to accurately learn the relationships between all three features increases exponentially. This is because there are now more parameters to estimate, and the number of data points needed to accurately estimate those parameters increases exponentially with the number of parameters.
+
+Simply put, the curse of dimensionality basically means that the error increases with the increase in the number of features.",Beginner
+Machine Learning,"What happens to our linear regression model if we have three columns in our data: x, y, z and z is a sum of x and y? è","We would not be able to perform the regression. Because z is linearly dependent on x and y so when performing the regression <img src=""https://render.githubusercontent.com/render/math?math={X}^{T}{X}""> would be a singular (not invertible) matrix.",Advanced
+Machine Learning,What happens to our linear regression model if the column z in the data is a sum of columns x and y and some random noise? è,Answer here,Advanced
+Others,What is regularization? Why do we need it?,Regularization is used to reduce overfitting in machine learning models. It helps the models to generalize well and make them robust to outliers and noise in the data.,Beginner
+Others,Which regularization techniques do you know? è,"There are mainly two types of regularization,
+1. L1 Regularization (Lasso regularization) - Adds the sum of absolute values of the coefficients to the cost function. <img src=""https://render.githubusercontent.com/render/math?math=\lambda\sum_{i=1}^{n} \left | w_i 
+ight |"">
+2. L2 Regularization (Ridge regularization) - Adds the sum of squares of coefficients to the cost function. <img src=""https://render.githubusercontent.com/render/math?math=\lambda\sum_{i=1}^{n} {w_{i}}^{2}"">
+
+* Where <img src=""https://render.githubusercontent.com/render/math?math=\lambda""> determines the amount of regularization.",Beginner
+Others,What kind of regularization techniques are applicable to linear models? è,"AIC/BIC, Ridge regression, Lasso, Elastic Net, Basis pursuit denoising, Rudin¢Äö¨Ç¨≈ìOsher¢Äö¨Ç¨≈ìFatemi model (TV), Potts model, RLAD,
+Dantzig Selector,SLOPE",Intermediate
+Others,How does L2 regularization look like in a linear model? è,L2 regularization adds a penalty term to our cost function which is equal to the sum of squares of models coefficients multiplied by a lambda hyperparameter. This technique makes sure that the coefficients are close to zero and is widely used in cases when we have a lot of features that might correlate with each other.,Intermediate
+Others,How do we select the right regularization parameters?,"Regularization parameters can be chosen using a grid search, for example https://scikit-learn.org/stable/modules/linear_model.html has one formula for the implementing for regularization, alpha in the formula mentioned can be found by doing a RandomSearch or a GridSearch on a set of values and selecting the alpha which gives the least cross validation or validation error.",Beginner
+Others,What the effect of L2 regularization on the weights of a linear model? è,"L2 regularization penalizes larger weights more severely (due to the squared penalty term), which encourages weight values to decay toward zero.",Intermediate
+Others,How L1 regularization looks like in a linear model? è,"L1 regularization adds a penalty term to our cost function which is equal to the sum of modules of models coefficients multiplied by a lambda hyperparameter. For example, cost function with L1 regularization will look like: <img src=""https://render.githubusercontent.com/render/math?math=\sum_{i=0}^{N}%20(y_i%20-%20\sum_{j=0}^{M}%20x_{ij}%20*%20w_j)%2B\lambda\sum_{j=0}^{M}%20\left%20|%20w_j%20
+ight%20|"">",Intermediate
+Others,What the difference between L2 and L1 regularization? è,"- Penalty terms: L1 regularization uses the sum of the absolute values of the weights, while L2 regularization uses the sum of the weights squared.
+- Feature selection: L1 performs feature selection by reducing the coefficients of some predictors to 0, while L2 does not.
+- Computational efficiency: L2 has an analytical solution, while L1 does not.
+- Multicollinearity: L2 addresses multicollinearity by constraining the coefficient norm.",Beginner
+Others,Can we have both L1 and L2 regularization components in a linear model? è,"Yes, elastic net regularization combines L1 and L2 regularization.",Intermediate
+Others,What the interpretation of the bias term in linear models? è,"Bias is simply, a difference between predicted value and actual/true value. It can be interpreted as the distance from the average prediction and true value i.e. true value minus mean(predictions). But dont get confused between accuracy and bias.",Intermediate
+Others,How do we interpret weights in linear models? è,"Without normalizing weights or variables, if you increase the corresponding predictor by one unit, the coefficient represents on average how much the output changes. By the way, this interpretation still works for logistic regression - if you increase the corresponding predictor by one unit, the weight represents the change in the log of the odds.
+
+If the variables are normalized, we can interpret weights in linear models like the importance of this variable in the predicted result.",Beginner
+Others,If a weight for one variable is higher than for another can we say that this variable is more important? è,"Yes - if your predictor variables are normalized.
+
+Without normalization, the weight represents the change in the output per unit change in the predictor. If you have a predictor with a huge range and scale that is used to predict an output with a very small range - for example, using each nation's GDP to predict maternal mortality rates - your coefficient should be very small. That does not necessarily mean that this predictor variable is not important compared to the others.",Advanced
+Databases,When do we need to perform feature normalization for linear models? When it okay not to do it? è,"Feature normalization is necessary for L1 and L2 regularizations. The idea of both methods is to penalize all the features relatively equally. This can't be done effectively if every feature is scaled differently. 
+
+Linear regression without regularization techniques can be used without feature normalization. Also, regularization can help to make the analytical solution more stable, ¢Äö¨Ç¨ù it adds the regularization matrix to the feature matrix before inverting it.",Intermediate
+Others,What is feature selection? Why do we need it?,Feature Selection is a method used to select the relevant features for the model to train on. We need feature selection to remove the irrelevant features which leads the model to under-perform.,Beginner
+Others,Is feature selection important for linear models? è,"Yes, It is. It can make model performance better through selecting the most importance features and remove irrelevant features in order to make a prediction and it can also avoid overfitting, underfitting and bias-variance tradeoff.",Beginner
+Others,Which feature selection techniques do you know? è,"Here are some of the feature selections:
+- Principal Component Analysis
+- Neighborhood Component Analysis
+- ReliefF Algorithm",Beginner
+Others,Can we use L1 regularization for feature selection? è,"Yes, because the nature of L1 regularization will lead to sparse coefficients of features. Feature selection can be done by keeping only features with non-zero coefficients.",Beginner
+Others,Can we use L2 regularization for feature selection? è,"No, Because L2 regularization does not make the weights zero but only makes them very very small. L2 regularization can be used to solve multicollinearity since it stabilizes the model.",Beginner
+DSA,What are the decision trees?,"This is a type of supervised learning algorithm that is mostly used for classification problems. Surprisingly, it works for both categorical and continuous dependent variables. 
+
+In this algorithm, we split the population into two or more homogeneous sets. This is done based on most significant attributes/ independent variables to make as distinct groups as possible.
+
+A decision tree is a flowchart-like tree structure, where each internal node (non-leaf node) denotes a test on an attribute, each branch represents an outcome of the test, and each leaf node (or terminal node) holds a value for the target variable.
+
+Various techniques : like Gini, Information Gain, Chi-square, entropy.",Beginner
+DSA,How do we train decision trees? è,"1. Start at the root node.
+2. For each variable X, find the set S_1 that minimizes the sum of the node impurities in the two child nodes and choose the split {X*,S*} that gives the minimum over all X and S.
+3. If a stopping criterion is reached, exit. Otherwise, apply step 2 to each child node in turn.",Beginner
+DSA,What are the main parameters of the decision tree model?,"* maximum tree depth
+* minimum samples per leaf node
+* impurity criterion",Intermediate
+DSA,How do we handle categorical variables in decision trees? è,"Some decision tree algorithms can handle categorical variables out of the box, others cannot. However, we can transform categorical variables, e.g. with a binary or a one-hot encoder.",Intermediate
+DSA,What are the benefits of a single decision tree compared to more complex models? è,"* Beginner to implement
+* fast training
+* fast inference
+* good explainability",Intermediate
+DSA,How can we know which features are more important for the decision tree model? è,"Often, we want to find a split such that it minimizes the sum of the node impurities. The impurity criterion is a parameter of decision trees. Popular methods to measure the impurity are the Gini impurity and the entropy describing the information gain.",Intermediate
+Others,What is random forest?,"Random Forest is a machine learning method for regression and classification which is composed of many decision trees. Random Forest belongs to a larger class of ML algorithms called ensemble methods (in other words, it involves the combination of several models to solve a single prediction problem).",Beginner
+Others,Why do we need randomization in random forest? è,"Random forest in an extension of the **bagging** algorithm which takes *random data samples from the training dataset* (with replacement), trains several models and averages predictions. In addition to that, each time a split in a tree is considered, random forest takes a *random sample of m features from full set of n features* (with replacement) and uses this subset of features as candidates for the split (for example, `m = sqrt(n)`).
+
+Training decision trees on random data samples from the training dataset *reduces variance*. Sampling features for each split in a decision tree *decorrelates trees*.",Beginner
+Others,What are the main parameters of the random forest model? è,"- `max_depth`: Longest Path between root node and the leaf
+- `min_sample_split`: The minimum number of observations needed to split a given node
+- `max_leaf_nodes`: Conditions the splitting of the tree and hence, limits the growth of the trees
+- `min_samples_leaf`: minimum number of samples in the leaf node
+- `n_estimators`: Number of trees
+- `max_sample`: Fraction of original dataset given to any individual tree in the given model
+- `max_features`: Limits the maximum number of features provided to trees in random forest model",Intermediate
+DSA,How do we select the depth of the trees in random forest? è,"The greater the depth, the greater amount of information is extracted from the tree, however, there is a limit to this, and the algorithm even if defensive against overfitting may learn complex features of noise present in data and as a result, may overfit on noise. Hence, there is no Advanced thumb rule in deciding the depth, but literature suggests a few tips on tuning the depth of the tree to prevent overfitting:
+
+- limit the maximum depth of a tree
+- limit the number of test nodes
+- limit the minimum number of objects at a node required to split
+- do not split a node when, at least, one of the resulting subsample sizes is below a given threshold
+- stop developing a node if it does not sufficiently improve the fit.",Intermediate
+DSA,How do we know how many trees we need in random forest? è,"The number of trees in random forest is worked by n_estimators, and a random forest reduces overfitting by increasing the number of trees. There is no fixed thumb rule to decide the number of trees in a random forest, it is rather fine tuned with the data, typically starting off by taking the square of the number of features (n) present in the data followed by tuning until we get the optimal results.",Intermediate
+Others,Is it Beginner to parallelize training of a random forest model? How can we do it? è,"Yes, R provides a simple way to parallelize training of random forests on large scale data.
+It makes use of a parameter called multicombine which can be set to TRUE for parallelizing random forest computations.
+
+```R
+rf <- foreach(ntree=rep(25000, 6), .combine=randomForest::combine,
+              .multicombine=TRUE, .packages='randomForest') %dopar% {
+    randomForest(x, y, ntree=ntree)
+}
+```",Intermediate
+DSA,What are the potential problems with many large trees? è,"- Overfitting: A large number of large trees can lead to overfitting, where the model becomes too complex and is able to memorize the training data but doesn't generalize well to new, unseen data.
+
+- Slow prediction time: As the number of trees in the forest increases, the prediction time for new data points can become quite slow. This can be a problem when you need to make predictions in real-time or on a large dataset.
+
+- Memory consumption: Random Forest models with many large trees can consume a lot of memory, which can be a problem when working with large datasets or on a limited Advancedware.
+
+- Lack of interpretability: Random Forest models with many large trees can be difficult to interpret, making it Advanceder to understand how the model is making predictions or what features are most important.
+
+- Difficulty in tuning : With an increasing number of large trees the tuning process becomes more complex and computationally expensive.
+
+It's important to keep in mind that the number of trees in a Random Forest should be chosen based on the specific problem and dataset, rather than using a large number of trees by default. In practice, the number of trees in a random forest is chosen based on the trade-off between the computational cost and the performance.",Intermediate
+Others,"What if instead of finding the best split, we randomly select a few splits and just select the best from them. Will it work?",Answer here,Advanced
+Others,What happens when we have correlated features in our data? è,"In random forest, since random forest samples some features to build each tree, the information contained in correlated features is twice as much likely to be picked than any other information contained in other features. 
+
+In general, when you are adding correlated features, it means that they linearly contains the same information and thus it will reduce the robustness of your model. Each time you train your model, your model might pick one feature or the other to ""do the same job"" i.e. explain some variance, reduce entropy, etc.",Intermediate
+DSA,What is gradient boosting trees? è,"Gradient boosting is a machine learning technique for regression and classification problems, which produces a prediction model in the form of an ensemble of weak prediction models, typically decision trees.",Beginner
+Others,What the difference between random forest and gradient boosting? è,"1. Random Forests builds each tree independently while Gradient Boosting builds one tree at a time.
+   2. Random Forests combine results at the end of the process (by averaging or ""majority rules"") while Gradient Boosting combines     results along the way.",Intermediate
+Others,Is it possible to parallelize training of a gradient boosting model? How to do it? è,"Yes, different frameworks provide different options to make training faster, using GPUs to speed up the process by making it highly parallelizable.For example, for XGBoost <i>tree_method = 'gpu_hist'</i> option makes training faster by use of GPUs.",Intermediate
+DSA,Feature importance in gradient boosting trees what are possible options? è,Answer here,Intermediate
+Others,Are there any differences between continuous and discrete variables when it comes to feature importance of gradient boosting models?,Answer here,Intermediate
+Others,What are the main parameters in the gradient boosting model? è,"There are many parameters, but below are a few key defaults.
+* learning_rate=0.1 (shrinkage).
+* n_estimators=100 (number of trees).
+* max_depth=3.
+* min_samples_split=2.
+* min_samples_leaf=1.
+* subsample=1.0.",Intermediate
+Others,How do you approach tuning parameters in XGBoost or LightGBM?,"Depending upon the dataset, parameter tuning can be done manually or using hyperparameter optimization frameworks such as optuna and hyperopt. In manual parameter tuning, we need to be aware of max-depth, min_samples_leaf and min_samples_split so that our model does not overfit the data but try to predict generalized characteristics of data (basically keeping variance and bias low for our model).",Intermediate
+DSA,How do you select the number of trees in the gradient boosting model? è,"Most implementations of gradient boosting are configured by default with a relatively small number of trees, such as hundreds or thousands. Using scikit-learn we can perform a grid search of the n_estimators model parameter",Intermediate
+Others,Which hyper-parameter tuning strategies (in general) do you know? è,"There are several strategies for hyper-tuning but I would argue that the three most popular nowadays are the following:
+* <b>Grid Search</b> is an exhaustive approach such that for each hyper-parameter, the user needs to <i>manually</i> give a list of values for the algorithm to try. After these values are selected, grid search then evaluates the algorithm using each and every combination of hyper-parameters and returns the combination that gives the optimal result (i.e. lowest MAE). Because grid search evaluates the given algorithm using all combinations, it's Beginner to see that this can be quite computationally expensive and can lead to sub-optimal results specifically since the user needs to specify specific values for these hyper-parameters, which is prone for error and requires domain knowledge.
+
+* <b>Random Search</b> is similar to grid search but differs in the sense that rather than specifying which values to try for each hyper-parameter, an upper and lower bound of values for each hyper-parameter is given instead. With uniform probability, random values within these bounds are then chosen and similarly, the best combination is returned to the user. Although this seems less intuitive, no domain knowledge is necessary and theoretically much more of the parameter space can be explored.
+
+* In a completely different framework, <b>Bayesian Optimization</b> is thought of as a more statistical way of optimization and is commonly used when using neural networks, specifically since one evaluation of a neural network can be computationally costly. In numerous research papers, this method heavily outperforms Grid Search and Random Search and is currently used on the Google Cloud Platform as well as AWS. Because an in-depth explanation requires a heavy background in bayesian statistics and gaussian processes (and maybe even some game theory), a ""simple"" explanation is that a much simpler/faster <i>acquisition function</i> intelligently chooses (using a <i>surrogate function</i> such as probability of improvement or GP-UCB) which hyper-parameter values to try on the computationally expensive, original algorithm. Using the result of the initial combination of values on the expensive/original function, the acquisition function takes the result of the expensive/original algorithm into account and uses it as its prior knowledge to again come up with another set of hyper-parameters to choose during the next iteration. This process continues either for a specified number of iterations or for a specified amount of time and similarly the combination of hyper-parameters that performs the best on the expensive/original algorithm is chosen.",Intermediate
+DSA,What the difference between grid search parameter tuning strategy and random search? When to use one or another? è,"For specifics, refer to the above answer.",Intermediate
+Others,What kind of problems neural nets can solve?,"Neural nets are good at solving non-linear problems. Some good examples are problems that are relatively Beginner for humans (because of experience, intuition, understanding, etc), but difficult for traditional regression models: speech recognition, handwriting recognition, image identification, etc.",Beginner
+Machine Learning,How does a usual fully-connected feed-forward neural network work? è,"In a usual fully-connected feed-forward network, each neuron receives input from every element of the previous layer and thus the receptive field of a neuron is the entire previous layer. They are usually used to represent feature vectors for input data in classification problems but can be expensive to train because of the number of computations involved.",Intermediate
+Others,Why do we need activation functions?,"The main idea of using neural networks is to learn complex nonlinear functions. If we are not using an activation function in between different layers of a neural network, we are just stacking up multiple linear layers one on top of another and this leads to learning a linear function. The Nonlinearity comes only with the activation function, this is the reason we need activation functions.",Beginner
+Others,What are the problems with sigmoid as an activation function? è,The derivative of the sigmoid function for large positive or negative numbers is almost zero. From this comes the problem of vanishing gradient ¢Äö¨Ç¨ù during the backpropagation our net will not learn (or will learn drastically slow). One possible way to solve this problem is to use ReLU activation function.,Intermediate
+Others,What is ReLU? How is it better than sigmoid or tanh? è,"ReLU is an abbreviation for Rectified Linear Unit. It is an activation function which has the value 0 for all negative values and the value f(x) = x for all positive values. The ReLU has a simple activation function which makes it fast to compute and while the sigmoid and tanh activation functions saturate at higher values, the ReLU has a potentially infinite activation, which addresses the problem of vanishing gradients.",Intermediate
+Machine Learning,How we can initialize the weights of a neural network? è,"Proper initialization of weight matrix in neural network is very necessary.
+Simply we can say there are two ways for initializations.
+   1. Initializing weights with zeroes.
+      Setting weights to zero makes your network no better than a linear model. It is important to note that setting biases to 0 will not create any troubles as non zero weights take care of breaking the symmetry and even if bias is 0, the values in every neuron are still different.  
+   2. Initializing weights randomly.
+      Assigning random values to weights is better than just 0 assignment. 
+* a) If weights are initialized with very high values the term np.dot(W,X)+b becomes significantly higher and if an activation function like sigmoid() is applied, the function maps its value near to 1 where the slope of gradient changes slowly and learning takes a lot of time.
+* b) If weights are initialized with low values it gets mapped to 0, where the case is the same as above. This problem is often referred to as the vanishing gradient.",Intermediate
+Machine Learning,What if we set all the weights of a neural network to 0? è,"If all the weights of a neural network are set to zero, the output of each connection is same (W*x = 0). This means the gradients which are backpropagated to each connection in a layer is same. This means all the connections/weights learn the same thing, and the model never converges.",Intermediate
+Others,What regularization techniques for neural nets do you know? è,"* L1 Regularization - Defined as the sum of absolute values of the individual parameters. The L1 penalty causes a subset of the weights to become zero, suggesting that the corresponding features may safely be discarded. 
+* L2 Regularization - Defined as the sum of square of individual parameters. Often supported by regularization hyperparameter alpha. It results in weight decay. 
+* Data Augmentation - This requires some fake data to be created as a part of training set. 
+* Drop Out : This is most effective regularization technique for neural nets. Few random nodes in each layer is deactivated in forward pass. This allows the algorithm to train on different set of nodes in each iterations.",Intermediate
+Others,What is dropout? Why is it useful? How does it work? è,"Dropout is a technique that at each training step turns off each neuron with a certain probability of *p*. This way at each iteration we train only *1-p* of neurons, which forces the network not to rely only on the subset of neurons for feature representation. This leads to regularizing effects that are controlled by the hyperparameter *p*.",Intermediate
+Artificial Intelligence,What is backpropagation? How does it work? Why do we need it? è,"The Backpropagation algorithm looks for the minimum value of the error function in weight space using a technique called the delta rule or gradient descent. 
+The weights that minimize the error function is then considered to be a solution to the learning problem. 
+
+We need backpropogation because,
+* Calculate the error ¢Äö¨Ç¨≈ì How far is your model output from the actual output.
+* Minimum Error ¢Äö¨Ç¨≈ì Check whether the error is minimized or not.
+* Update the parameters ¢Äö¨Ç¨≈ì If the error is huge then, update the parameters (weights and biases). After that again check the error.  
+Repeat the process until the error becomes minimum.
+* Model is ready to make a prediction ¢Äö¨Ç¨≈ì Once the error becomes minimum, you can feed some inputs to your model and it will produce the output.",Intermediate
+Artificial Intelligence,Which optimization techniques for training neural nets do you know? è,"* Gradient Descent
+* Stochastic Gradient Descent
+* Mini-Batch Gradient Descent(best among gradient descents)
+* Nesterov Accelerated Gradient
+* Momentum
+* Adagrad 
+* AdaDelta
+* Adam(best one. less time, more efficient)",Intermediate
+Artificial Intelligence,How do we use SGD (stochastic gradient descent) for training a neural net? è,"SGD approximates the expectation with few randomly selected samples (instead of the full data). In comparison to batch gradient descent, we can efficiently approximate the expectation in large data sets using SGD. For neural networks this reduces the training time a lot even considering that it will converge later as the random sampling adds noise to the gradient descent.",Intermediate
+Artificial Intelligence,What the learning rate?,"The learning rate is an important hyperparameter that controls how quickly the model is adapted to the problem during the training. It can be seen as the ""step width"" during the parameter updates, i.e. how far the weights are moved into the direction of the minimum of our optimization problem.",Beginner
+Others,What happens when the learning rate is too large? Too small?,"A large learning rate can accelerate the training. However, it is possible that we ""shoot"" too far and miss the minimum of the function that we want to optimize, which will not result in the best solution. On the other hand, training with a small learning rate takes more time but it is possible to find a more precise minimum. The downside can be that the solution is stuck in a local minimum, and the weights won't update even if it is not the best possible global solution.",Intermediate
+Others,How to set the learning rate? è,There is no straightforward way of finding an optimum learning rate for a model. It involves a lot of hit and trial. Usually starting with a small values such as 0.01 is a good starting point for setting a learning rate and further tweaking it so that it doesn't overshoot or converge too slowly.,Beginner
+Others,What is Adam? What the main difference between Adam and SGD? è,"Adam (Adaptive Moment Estimation) is a optimization technique for training neural networks. on an average, it is the best optimizer .It works with momentums of first and second order. The intuition behind the Adam is that we dont want to roll so fast just because we can jump over the minimum, we want to decrease the velocity a little bit for a careful search.
+
+Adam tends to converge faster, while SGD often converges to more optimal solutions.
+SGD's high variance disadvantages gets rectified by Adam (as advantage for Adam).",Intermediate
+Others,When would you use Adam and when SGD? è,"Adam tends to converge faster, while SGD often converges to more optimal solutions.",Beginner
+Others,Do we want to have a constant learning rate or we better change it throughout training? è,"Generally, it is recommended to start learning rate with relatively high value and then gradually decrease learning rate so the model does not overshoot the minima and at the same time we don't want to start with very low learning rate as the model will take too long to converge. There are many available techniques to do decay the learning rate. For example, in PyTorch you can use
+a function called **StepLR** which decays the learning rate of each parameter by value **gamma**-which we have to pass through argument- after n number of epoch which you can also set through function argument named **epoch_size**.",Intermediate
+Others,How do we decide when to stop training a neural net?,Simply stop training when the validation error is the minimum.,Intermediate
+Others,What is model checkpointing? è,Saving the weights learned by a model mid training for long running processes is known as model checkpointing so that you can resume your training from a certain checkpoint.,Beginner
+Others,Can you tell us how you approach the model training process? è,Answer here,Intermediate
+Others,How we can use neural nets for computer vision? è,Neural nets used in the area of computer vision are generally Convolutional Neural Networks(CNN's). You can learn about convolutions below. It appears that convolutions are quite powerful when it comes to working with images and videos due to their ability to extract and learn complex features. Thus CNN's are a go-to method for any problem in computer vision.,Intermediate
+Others,What a convolutional layer? è,"The idea of the convolutional layer is the assumption that the information needed for making a decision often is spatially close and thus, it only takes the weighted sum over nearby inputs. It also assumes that the networks kernels can be reused for all nodes, hence the number of weights can be drastically reduced. To counteract only one feature being learnt per layer, multiple kernels are applied to the input which creates parallel channels in the output. Consecutive layers can also be stacked to allow the network to find more high-level features.",Beginner
+Others,Why do we actually need convolutions? Cant we use fully-connected layers for that? è,"A fully-connected layer needs one weight per inter-layer connection, which means the number of weights which needs to be computed quickly balloons as the number of layers and nodes per layer is increased.",Intermediate
+Others,What pooling in CNN? Why do we need it? è,"Pooling is a technique to downsample the feature map. It allows layers which receive relatively undistorted versions of the input to learn low level features such as lines, while layers deeper in the model can learn more abstract features such as texture.",Intermediate
+Others,How does max pooling work? Are there other pooling techniques? è,"Max pooling is a technique where the maximum value of a receptive field is passed on in the next feature map. The most commonly used receptive field is 2 x 2 with a stride of 2, which means the feature map is downsampled from N x N to N/2 x N/2. Receptive fields larger than 3 x 3 are rarely employed as too much information is lost. 
+
+Other pooling techniques include:
+
+* Average pooling, the output is the average value of the receptive field.
+* Min pooling, the output is the minimum value of the receptive field.
+* Global pooling, where the receptive field is set to be equal to the input size, this means the output is equal to a scalar and can be used to reduce the dimensionality of the feature map.",Intermediate
+Others,Are CNNs resistant to rotations? What happens to the predictions of a CNN if an image is rotated?,"CNNs are not resistant to rotation by design. However, we can make our models resistant by augmenting our datasets with different rotations of the raw data. The predictions of a CNN will change if an image is rotated and we did not augment our dataset accordingly. A demonstration of this occurence can be seen in [this video](https://www.youtube.com/watch?v=VO1bQo4PXV4), where a CNN changes its predicted class between a duck and a rabbit based on the rotation of the image.",Intermediate
+Others,What are augmentations? Why do we need them?,"Augmentations are an artifical way of expanding the existing datasets by performing some transformations, color shifts or many other things on the data. It helps in diversifying the data and even increasing the data when there is scarcity of data for a model to train on.",Beginner
+Others,What kind of augmentations do you know?,"There are many kinds of augmentations which can be used according to the type of data you are working on some of which are geometric and numerical transformation, PCA, cropping, padding, shifting, noise injection etc.",Beginner
+Others,How to choose which augmentations to use? è,"Augmentations really depend on the type of output classes and the features you want your model to learn. For eg. if you have mostly properly illuminated images in your dataset and want your model to predict poorly illuminated images too, you can apply channel shifting on your data and include the resultant images in your dataset for better results.",Beginner
+Machine Learning,What kind of CNN architectures for classification do you know?,"Image Classification
+* Inception v3
+* Xception 
+* DenseNet
+* AlexNet
+* VGG16
+* ResNet
+* SqueezeNet
+* EfficientNet
+* MobileNet
+
+The last three are designed so they use smaller number of parameters which is helpful for edge AI.",Intermediate
+Others,What is transfer learning? How does it work? è,"Given a source domain D_S and learning task T_S, a target domain D_T and learning task T_T, transfer learning aims to help improve the learning of the target predictive function f_T in D_T using the knowledge in D_S and T_S, where D_S ¢Ç¨∞† D_T,or T_S ¢Ç¨∞† T_T. In other words, transfer learning enables to reuse knowledge coming from other domains or learning tasks.
+
+In the context of CNNs, we can use networks that were pre-trained on popular datasets such as ImageNet. We then can use the weights of the layers that learn to represent features and combine them with a new set of layers that learns to map the feature representations to the given classes. Two popular strategies are either to freeze the layers that learn the feature representations completely, or to give them a smaller learning rate.",Beginner
+System Design,What is object detection? Do you know any architectures for that?,"Object detection is finding Bounding Boxes around objects in an image. 
+Architectures :
+YOLO, Faster RCNN, Center Net",Intermediate
+System Design,What is object segmentation? Do you know any architectures for that?,"Object Segmentation is predicting masks. It does not differentiate objects. 
+Architectures :
+Mask RCNN, UNet",Intermediate
+Machine Learning,How can we use machine learning for text classification? è,"Machine learning classification algorithms predict a class based on a numerical feature representation. This means that in order to use machine learning for text classification, we need to extract numerical features from our text data first before we can apply machine learning algorithms. Common approaches to extract numerical features from text data are bag of words, N-grams or word embeddings.",Intermediate
+Machine Learning,What is bag of words? How we can use it for text classification? è,"Bag of Words is a representation of text that describes the occurrence of words within a document. The order or structure of the words is not considered. For text classification, we look at the histogram of the words within the text and consider each word count as a feature.",Intermediate
+Others,What are the advantages and disadvantages of bag of words? è,"Advantages:
+1. Simple to understand and implement.
+
+Disadvantages:
+1. The vocabulary requires careful design, most specifically in order to manage the size, which impacts the sparsity of the document representations.
+2. Sparse representations are Advanceder to model both for computational reasons (space and time complexity) and also for information reasons
+3. Discarding word order ignores the context, and in turn meaning of words in the document. Context and meaning can offer a lot to the model, that if modeled could tell the difference between the same words differently arranged (¢Äö¨√ÖÄúthis is interesting¢Äö¨ù vs ¢Äö¨√ÖÄúis this interesting¢Äö¨ù), synonyms (¢Äö¨√ÖÄúold bike¢Äö¨ù vs ¢Äö¨√ÖÄúused bike¢Äö¨ù).",Intermediate
+Others,What are N-grams? How can we use them? è,The function to tokenize into consecutive sequences of words is called n-grams. It can be used to find out N most co-occurring words (how often word X is followed by word Y) in a given sentence.,Beginner
+Others,How large should be N for our bag of words when using N-grams? è,Answer here,Intermediate
+Machine Learning,What is TF-IDF? How is it useful for text classification? è,"Term Frequency (TF) is a scoring of the frequency of the word in the current document. Inverse Document Frequency(IDF) is a scoring of how rare the word is across documents. It is used in scenario where highly recurring words may not contain as much informational content as the domain specific words. For example, words like ¢Äö¨√ÖÄúthe¢Äö¨ù that are frequent across all documents therefore need to be less weighted. The TF-IDF score highlights words that are distinct (contain useful information) in a given document.",Intermediate
+Machine Learning,Which model would you use for text classification with bag of words features? è,"1. Bag Of Words model
+2. Word2Vec Embeddings
+3. fastText Embeddings
+4. Convolutional Neural Networks (CNN)
+5. Long Short-Term Memory (LSTM)
+6. Bidirectional Encoder Representations from Transformers (BERT)",Intermediate
+DSA,Would you prefer gradient boosting trees model or logistic regression when doing text classification with bag of words? è,Usually logistic regression is better because bag of words creates a matrix with large number of columns. For a huge number of columns logistic regression is usually faster than gradient boosting trees.,Intermediate
+Others,What are word embeddings? Why are they useful? Do you know Word2Vec? è,"Word Embeddings are vector representations for words. Each word is mapped to one vector, this vector tries to capture some characteristics of the word, allowing similar words to have similar vector representations.  
+Word Embeddings helps in capturing the inter-word semantics and represents it in real-valued vectors.",Intermediate
+Others,Do you know any other ways to get word embeddings?,#NAME?,Intermediate
+Others,"If you have a sentence with multiple words, you may need to combine multiple word embeddings into one. How would you do it? è","Approaches ranked from simple to more complex:
+
+1. Take an average over all words
+2. Take a weighted average over all words. Weighting can be done by inverse document frequency (idf part of tf-idf).
+3. Use ML model like LSTM or Transformer.",Advanced
+DSA,Would you prefer gradient boosting trees model or logistic regression when doing text classification with embeddings? è,Answer here,Intermediate
+Machine Learning,How can you use neural nets for text classification?,Answer here,Beginner
+Machine Learning,How can we use CNN for text classification?,Answer here,Beginner
+Machine Learning,What is unsupervised learning?,Unsupervised learning aims to detect patterns in data where no labels are given.,Beginner
+Others,What is clustering? When do we need it?,Clustering algorithms group objects such that similar feature points are put into the same groups (clusters) and dissimilar feature points are put into different clusters.,Beginner
+Others,Do you know how K-means works? è,"1. Partition points into k subsets.
+2. Compute the seed points as the new centroids of the clusters of the current partitioning.
+3. Assign each point to the cluster with the nearest seed point.
+4. Go back to step 2 or stop when the assignment does not change.",Beginner
+Others,How to select K for K-means? è,"* Domain knowledge, i.e. an expert knows the value of k
+* Elbow method: compute the clusters for different values of k, for each k, calculate the total within-cluster sum of square, plot the sum according to the number of clusters and use the band as the number of clusters.
+* Average silhouette method: compute the clusters for different values of k, for each k, calculate the average silhouette of observations, plot the silhouette according to the number of clusters and select the maximum as the number of clusters.",Beginner
+DSA,What are the other clustering algorithms do you know? è,"* k-medoids: Takes the most central point instead of the mean value as the center of the cluster. This makes it more robust to noise.
+* Agglomerative Hierarchical Clustering (AHC): hierarchical clusters combining the nearest clusters starting with each point as its own cluster.
+* DIvisive ANAlysis Clustering (DIANA): hierarchical clustering starting with one cluster containing all points and splitting the clusters until each point describes its own cluster.
+* Density-Based Spatial Clustering of Applications with Noise (DBSCAN): Cluster defined as maximum set of density-connected points.",Intermediate
+Others,Do you know how DBScan works? è,"* Two input parameters epsilon (neighborhood radius) and minPts (minimum number of points in an epsilon-neighborhood)
+* Cluster defined as maximum set of density-connected points.
+* Points p_j and p_i are density-connected w.r.t. epsilon and minPts if there is a point o such that both, i and j are density-reachable from o w.r.t. epsilon and minPts.
+* p_j is density-reachable from p_i w.r.t. epsilon, minPts if there is a chain of points p_i -> p_i+1 -> p_i+x = p_j such that p_i+x is directly density-reachable from p_i+x-1.
+* p_j is a directly density-reachable point of the neighborhood of p_i if dist(p_i,p_j) <= epsilon.",Beginner
+Others,When would you choose K-means and when DBScan? è,"* DBScan is more robust to noise.
+* DBScan is better when the amount of clusters is difficult to guess.
+* K-means has a lower complexity, i.e. it will be much faster, especially with a larger amount of points.",Beginner
+Others,What is the curse of dimensionality? Why do we care about it? è,"Data in only one dimension is relatively tightly packed. Adding a dimension stretches the points across that dimension, pushing them further apart. Additional dimensions spread the data even further making high dimensional data extremely sparse. We care about it, because it is difficult to use machine learning in sparse spaces.",Intermediate
+Others,Do you know any dimensionality reduction techniques? è,"* Singular Value Decomposition (SVD)
+* Principal Component Analysis (PCA)
+* Linear Discriminant Analysis (LDA)
+* T-distributed Stochastic Neighbor Embedding (t-SNE)
+* Autoencoders
+* Fourier and Wavelet Transforms",Beginner
+Machine Learning,What singular value decomposition? How is it typically used for machine learning? è,"* Singular Value Decomposition (SVD) is a general matrix decomposition method that factors a matrix X into three matrices L (left singular values), ≈Ω£ (diagonal matrix) and R^T (right singular values).
+* For machine learning, Principal Component Analysis (PCA) is typically used. It is a special type of SVD where the singular values correspond to the eigenvectors and the values of the diagonal matrix are the squares of the eigenvalues. We use these features as they are statistically descriptive.
+* Having calculated the eigenvectors and eigenvalues, we can use the Kaiser-Guttman criterion, a scree plot or the proportion of explained variance to determine the principal components (i.e. the final dimensionality) that are useful for dimensionality reduction.",Intermediate
+Others,What is the ranking problem? Which models can you use to solve them? è,Answer here,Intermediate
+Machine Learning,What are good unsupervised baselines for text information retrieval? è,Answer here,Intermediate
+DSA,How would you evaluate your ranking algorithms? Which offline metrics would you use? è,Answer here,Intermediate
+Others,What is precision and recall at k? è,"Precision at k and recall at k are evaluation metrics for ranking algorithms. Precision at k shows the share of relevant items in the first *k* results of the ranking algorithm. And Recall at k indicates the share of relevant items returned in top *k* results out of all correct answers for a given query.
+
+Example:
+For a search query ""Car"" there are 3 relevant products in your shop. Your search algorithm returns 2 of those relevant products in the first 5 search results.
+Precision at 5 = # num of relevant products in search result / k = 2/5 = 40%
+Recall at 5 = # num of relevant products in search result / # num of all relevant products = 2/3 = 66.6%",Beginner
+Others,What is mean average precision at k? è,Answer here,Beginner
+DSA,How can we use machine learning for search? è,Answer here,Beginner
+DSA,How can we get training data for our ranking algorithms? è,Answer here,Intermediate
+DSA,Can we formulate the search problem as a classification problem? How? è,Answer here,Intermediate
+DSA,How can we use clicks data as the training data for ranking algorithms?,Answer here,Intermediate
+DSA,Do you know how to use gradient boosting trees for ranking?,Answer here,Intermediate
+DSA,How do you do an online evaluation of a new ranking algorithm? è,Answer here,Intermediate
+Others,What is a recommender system?,Recommender systems are software tools and techniques that provide suggestions for items that are most likely of interest to a particular user.,Beginner
+Others,What are good baselines when building a recommender system? è,"* A good recommer system should give relevant and personalized information.
+* It should not recommend items the user knows well or finds easily.
+* It should make diverse suggestions.
+* A user should explore new items.",Intermediate
+Others,What is collaborative filtering? è,"* Collaborative filtering is the most prominent approach to generate recommendations.
+* It uses the wisdom of the crowd, i.e. it gives recommendations based on the experience of others.
+* A recommendation is calculated as the average of other experiences.
+* Say we want to give a score that indicates how much user u will like an item i. Then we can calculate it with the experience of N other users U as r_ui = 1/N * sum(v in U) r_vi.
+* In order to rate similar experiences with a higher weight, we can introduce a similarity between users that we use as a multiplier for each rating.
+* Also, as users have an individual profile, one user may have an average rating much larger than another user, so we use normalization techniques (e.g. centering or Z-score normalization) to remove the users' biases.
+* Collaborative filtering does only need a rating matrix as input and improves over time. However, it does not work well on sparse data, does not work for cold starts (see below) and usually tends to overfit.",Beginner
+Others,"How we can incorporate implicit feedback (clicks, etc) into our recommender systems? è","In comparison to explicit feedback, implicit feedback datasets lack negative examples. For example, explicit feedback can be a positive or a negative rating, but implicit feedback may be the number of purchases or clicks. One popular approach to solve this problem is named weighted alternating least squares (wALS) [Hu, Y., Koren, Y., & Volinsky, C. (2008, December). Collaborative filtering for implicit feedback datasets. In Data Mining, 2008. ICDM'08. Eighth IEEE International Conference on (pp. 263-272). IEEE.]. Instead of modeling the rating matrix directly, the numbers (e.g. amount of clicks) describe the strength in observations of user actions. The model tries to find latent factors that can be used to predict the expected preference of a user for an item.",Intermediate
+Others,What is the cold start problem? è,"Collaborative filterung incorporates crowd knowledge to give recommendations for certain items. Say we want to recommend how much a user will like an item, we then will calculate the score using the recommendations of other users for this certain item. We can distinguish between two different ways of a cold start problem now. First, if there is a new item that has not been rated yet, we cannot give any recommendation. Also, when there is a new user, we cannot calculate a similarity to any other user.",Beginner
+Others,Possible approaches to solving the cold start problem? ,"* Content-based filtering incorporates features about items to calculate a similarity between them. In this way, we can recommend items that have a high similarity to items that a user liked already. In this way, we are not dependent on the ratings of other users for a given item anymore and solve the cold start problem for new items.
+* Demographic filtering incorporates user profiles to calculate a similarity between them and solves the cold start problem for new users.",Beginner
+Others,What is a time series?,A time series is a set of observations ordered in time usually collected at regular intervals.,Beginner
+Machine Learning,How is time series different from the usual regression problem?,"The principle behind causal forecasting is that the value that has to be predicted is dependant on the input features (causal factors). In time series forecasting, the to be predicted value is expected to follow a certain pattern over time.",Intermediate
+Others,Which models do you know for solving time series problems? è,"* Simple Exponential Smoothing: approximate the time series with an exponential function
+* Trend-Corrected Exponential Smoothing (Holt¢Äö¨√ã≈ìs Method): exponential smoothing that also models the trend
+* Trend- and Seasonality-Corrected Exponential Smoothing (Holt-Winter¢Äö¨√ã≈ìs Method): exponential smoothing that also models trend and seasonality
+* Time Series Decomposition: decomposed a time series into the four components trend, seasonal variation, cycling variation and irregular component
+* Autoregressive models: similar to multiple linear regression, except that the dependent variable y_t depends on its own previous values rather than other independent variables.
+* Deep learning approaches (RNN, LSTM, etc.)",Intermediate
+Others,"If there a trend in our series, how we can remove it? And why would we want to do it? è","We can explicitly model the trend (and/or seasonality) with approaches such as Holt's Method or Holt-Winter's Method. We want to explicitly model the trend to reach the stationarity property for the data. Many time series approaches require stationarity. Without stationarity,the interpretation of the results of these analyses is problematic [Manuca, Radu & Savit, Robert. (1996). Stationarity and nonstationarity in time series analysis. Physica D: Nonlinear Phenomena. 99. 134-161. 10.1016/S0167-2789(96)00139-X. ].",Advanced
+Others,You have a series with only one variableù measured at time t. How do predictù at time t+1? Which approaches would you use? è,We want to look at the correlation between different observations of y. This measure of correlation is called autocorrelation. Autoregressive models are multiple regression models where the time-lag series of the original time series are treated like multiple independent variables.,Advanced
+Others,You have a series with a variableù and a set of features. How do you predictù at t+1? Which approaches would you use? è,"Given the assumption that the set of features gives a meaningful causation to y, a causal forecasting approach such as linear regression or multiple nonlinear regression might be useful. In case there is a lot of data and the explainability of the results is not a high priority, we can also consider deep learning approaches.",Advanced
+DSA,What are the problems with using trees for solving time series problems? è,Random Forest models are not able to extrapolate time series data and understand increasing/decreasing trends. It will provide us with average data points if the validation data has values greater than the training data points.,Intermediate

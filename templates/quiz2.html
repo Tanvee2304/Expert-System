@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f3f4f6;
+            margin: 0;
+            padding: 0;
+            color: black;
+            justify-content: center;
+        }
+
+        .container {
+            max-width: 800px;
+            width: 90%;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+            margin: 20px auto;
+        }
+
+        .container:hover {
+            transform: translateY(-10px);
+        }
+
+        .timer {
+            font-size: 24px;
+            font-weight: bold;
+            color: red;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 20px;
+            font-size: 28px;
+        }
+
+        form {
+            margin-top: 20px;
+        }
+
+        form p {
+            font-size: 20px;
+            color: #34495e;
+            margin-bottom: 10px;
+        }
+
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 18px;
+            box-sizing: border-box;
+            transition: border 0.3s ease;
+        }
+
+        input[type="text"]:focus {
+            border: 2px solid #3498db;
+            outline: none;
+        }
+
+        input[type="submit"] {
+            background-color: #3498db;
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 24px;
+            margin-top: 20px;
+            width: 90%;
+            transition: background-color 0.3s ease;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #2980b9;
+        }
+
+        .question {
+            margin-bottom: 30px;
+        }
+
+        .time-selection {
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>{{ role }} Quiz ({{ experience }} level)</h1>
+
+        <!-- Time Selection -->
+        <div class="time-selection">
+            <label for="time-bound-quiz">Do you want a time-bound quiz?</label>
+            <select id="time-bound-quiz">
+                <option value="yes">Yes</option>
+                <option value="no">No</option>
+            </select>
+        </div>
+
+        <!-- Timer display -->
+        <div class="timer" id="timer-container" style="display: none;">
+            Time Remaining: <span id="time">05:00</span>
+        </div>
+
+        <!-- Quiz Form -->
+        <form id="quiz-form" action="{{ url_for('results') }}" method="POST" style="display: none;">
+            {% for question in questions %}
+            <div class="question">
+                <p>Q{{ loop.index }}: {{ question['Question'] }}</p>
+                <input type="hidden" name="correct_answer" value="{{ question['Answer'] }}">
+                <input type="text" name="answer" required><br><br>
+            </div>
+            {% endfor %}
+            <!-- Pass the role (job domain) to the results page -->
+            <input type="hidden" name="role" value="{{ role }}">
+            <input type="hidden" name="experience" value="{{ experience }}">
+            <input type="submit" value="Submit Answers">
+        </form>
+    </div>
+
+    <script>
+        // Function to start the timer
+        function startTimer(duration, display) {
+            var timer = duration, minutes, seconds;
+            var interval = setInterval(function () {
+                minutes = parseInt(timer / 60, 10);
+                seconds = parseInt(timer % 60, 10);
+
+                minutes = minutes < 10 ? "0" + minutes : minutes;
+                seconds = seconds < 10 ? "0" + seconds : seconds;
+
+                display.textContent = minutes + ":" + seconds;
+
+                if (--timer < 0) {
+                    clearInterval(interval);
+                    alert("Time's up! The quiz will be submitted.");
+                    document.getElementById('quiz-form').submit();  // Auto-submit form when time is up
+                }
+            }, 1000);
+        }
+
+        // Function to handle the quiz start based on the time-bound selection
+        function handleQuizStart() {
+            var timeBoundSelection = document.getElementById('time-bound-quiz').value;
+
+            // Show the quiz form
+            document.getElementById('quiz-form').style.display = "block";
+
+            // If user selects 'yes' for time-bound, start the timer
+            if (timeBoundSelection === "yes") {
+                document.getElementById('timer-container').style.display = "block";
+                var fiveMinutes = 60 * 5,  // Set timer to 5 minutes (300 seconds)
+                    display = document.querySelector('#time');
+                startTimer(fiveMinutes, display);
+            }
+        }
+
+        // Event listener for the selection change
+        document.getElementById('time-bound-quiz').addEventListener('change', handleQuizStart);
+
+    </script>
+</body>
+</html>

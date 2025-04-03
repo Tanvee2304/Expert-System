@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz</title>
+</head>
+<body>
+    <h1>{{ role }} Quiz ({{ experience }} level)</h1>
+    <form action="{{ url_for('result') }}" method="POST">
+        {% for question in questions %}
+        <div>
+            <p>Q{{ loop.index }}: {{ question['Question'] }}</p>
+            <input type="hidden" name="correct_answer" value="{{ question['Answer'] }}">
+            <input type="text" name="answer" required><br><br>
+        </div>
+        {% endfor %}
+        <!-- Pass the role (job domain) to the results page -->
+        <input type="hidden" name="role" value="{{ role }}">
+        <input type="submit" value="Submit Answers">
+    </form>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<html>
+<head>
+	<title><center>Select Your Job Role and Experience</center></title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body class="form-background">
+    <div class="form-container">
+        <h2 class="form-heading">Select Your Job Role and Experience</h2>
+        <form action="/submit" method="POST" class="form">
+        	<div class="form-group">
+            <label for="job_role">Job Role:</label>
+            <input type="text" id="job_role" name="job_role" class="form-input" required><br></div>
+
+            <div class="form-group">
+               <label for="experience_level">Experience Level:</label>
+               <select id="experience_level" name="experience_level">
+                <option value="Entry">Entry</option>
+                <option value="Mid">Mid</option>
+                <option value="Senior">Senior</option>
+            </select></div>
+
+
+            <div>
+            	<label for="num_questions">Number of Questions:</label>
+        <input type="number" id="num_questions" name="num_questions" min="1" required>
+
+    </div>
+
+    <div>
+        <label>Time-bound Mode:</label>
+        <select name="time_bound">
+            <option value="no">No</option>
+            <option value="yes">Yes</option>
+        </select>
+    </div>
+
+             <input type="submit" value="Submit">
+
+        </form>
+    </div>
+</body>
+</html>

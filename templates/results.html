@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 700px;
+            margin: 50px auto;
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: #3498db;
+        }
+
+
+        .score {
+            text-align: center;
+            font-size: 28px;
+            margin-bottom: 20px;
+            color: #2ecc71;
+        }
+
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            background-color: #f9f9f9;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-left: 5px solid #3498db;
+            font-size: 18px;
+            color: #333;
+        }
+
+        .correct {
+            border-left-color: #2ecc71;
+        }
+
+        .incorrect {
+            border-left-color: #e74c3c;
+        }
+
+        .tip {
+            background-color: #f5f5f5;
+            padding: 20px;
+            border-radius: 6px;
+            margin-top: 30px;
+            font-size: 30px;
+        }
+
+        .tip h2 {
+            color: #2c3e50;
+            font-size: 36px;
+        }
+
+        .tip p {
+            color: #34495e;
+            font-size: 32px;
+        }
+    </style>
+    <title>Results</title>
+</head>
+<body>
+    <h1>Quiz Results</h1>
+     <!-- Display the score -->
+     <div class="score">
+        You scored {{ score }}%
+    </div>
+
+    <ul>
+        {% for feedback in feedback %}
+        <li>{{ feedback }}</li>
+        {% endfor %}
+    </ul>
+
+<h2>Tip for {{ role }} - {{ experience }} Level</h2>
+<p>{{ role_tip }}</p>
+<p>{{ experience_tip }}</p>
+
+</body>
+</html>

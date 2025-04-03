@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/style.css">
+    <title>Interview Expert System</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Interview Expert System</h1>
+        <form id="input-form">
+            <label for="role">Job Role:</label>
+            <input type="text" id="role" required>
+
+            <label for="experience">Experience Level:</label>
+            <select id="experience">
+                <option value="Entry">Entry</option>
+                <option value="Mid">Mid</option>
+                <option value="Senior">Senior</option>
+            </select>
+
+            <label for="num_questions">Number of Questions:</label>
+            <input type="number" id="num_questions" min="1" required>
+
+            <button type="submit">Submit</button>
+        </form>
+
+        <div id="result">
+            <h2>Questions:</h2>
+            <ul id="questions-list"></ul>
+
+            <h2>Tips:</h2>
+            <div id="tips"></div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

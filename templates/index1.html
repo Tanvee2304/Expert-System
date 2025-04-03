@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            background-image: url('/static/final3.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(0, 0, 0, 0.7);
+            z-index: 1;
+        }
+
+        .container {
+            position: relative;
+            z-index: 2;
+            color: darkgrey;
+            padding: 20px;
+            max-width: 400px;
+            width: 100%;
+            text-align: center;
+        }
+
+        h1 {
+            color: white;
+        }
+
+        input[type="number"] {
+            width: 70%; /* Adjust this value as needed */
+        }
+
+        form {
+            background: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        input, select {
+            color: black;
+            padding: 10px;
+            width: 100%;
+            margin: 10px 0;
+        }
+
+        input[type="submit"] {
+            background-color: limegreen;
+            color: white;
+            border: none;
+            cursor: pointer;
+            width: 70%;
+        }
+    </style>
+    <title>Expert System Quiz</title>
+</head>
+<body>
+    <div class="overlay"></div>
+    <div class="container">
+        <h1>Welcome to the Expert System Quiz</h1>
+        <form action="{{ url_for('quiz1') }}" method="POST">
+            <!-- Dropdown list for selecting job role (domain) -->
+            <label for="role">Domain:</label>
+            <select name="role" required>
+                <option value="" disabled selected>Select your domain of interest</option>
+                    <option value="Artificial Intelligence">Artificial Intelligence</option> 
+                    <option value="Machine Learning">Machine Learning</option> 
+                    <option value="Cybersecurity">Cybersecurity</option>
+                    <option value="Data Engineering">Data Engineering</option>
+                    <option value="DSA">DSA</option>
+                    <option value="Web Development">Web Development</option>
+                    <option value="Software Testing">Software Testing</option>
+            </select>
+            <br><br>
+
+            <label for="experience">Experience Level:</label>
+            <select name="experience" required>
+                <option value="Entry">Entry</option>
+                <option value="Mid">Mid</option>
+                <option value="Senior">Senior</option>
+            </select><br><br>
+
+            <label for="num_questions">Number of Questions:</label>
+            <input type="number" name="num_questions" min="1" required><br><br>
+        
+            
+    
+
+            <input type="submit" value="Start Quiz">
+        </form>
+    </div>
+</body>
+</html>

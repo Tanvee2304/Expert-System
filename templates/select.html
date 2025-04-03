@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select Your Job Role</title>
+    <link rel="stylesheet" href="static/styles.css"> <!-- Link to your CSS for styling -->
+</head>
+<body>
+    <h1>Select Your Job Role and Experience Level</h1>
+    <form action="/select" method="post">
+        <label for="job_role">Job Role:</label>
+        <input type="text" name="job_role" id="job_role" required><br><br>
+        
+        <label for="experience">Experience Level:</label>
+        <input type="text" name="experience" id="experience" required><br><br>
+        
+        <label for="num_questions">Number of Questions:</label>
+        <input type="number" name="num_questions" id="num_questions" required><br><br>
+        
+        <label for="time_bound">Time Bound:</label>
+        <input type="checkbox" name="time_bound" id="time_bound"><br><br>
+        
+        <input type="submit" value="submit">
+    </form>
+</body>
+</html>
